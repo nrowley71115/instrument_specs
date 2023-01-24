@@ -63,7 +63,6 @@ def print_program_title():
 
 if __name__ == "__main__":
     manuf_and_devices = manuf_and_devices_dict()
-    print(manuf_and_devices)
 
     print_program_title()
 
