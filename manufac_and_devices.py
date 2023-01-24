@@ -26,9 +26,6 @@ def manuf_and_devices_dict():
         index = device.index('.')
         device = device[:index]
 
-        print(manufacturer, device)
-        # TODO add the manufacturer and device to a dictionary
-
         # loops through the dictionary of lists
         for key, value in manuf_devices_dict.items():
             

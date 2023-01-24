@@ -17,8 +17,10 @@ def get_users_instrument_options(manuf_devices_dict):
 
     string = f'-AVAILABLE MANUFACTURERS-\n{available_manuf}\n\n'
     print(string)
+    
+    loop = True
 
-    while True:
+    while loop:
         inputed_manufacturer = input("What is the manufacturer of your instrument? ")
         inputed_manufacturer = inputed_manufacturer.upper()
         inputed_manufacturer = inputed_manufacturer.strip()
@@ -26,19 +28,18 @@ def get_users_instrument_options(manuf_devices_dict):
         for manufacturer in available_manuf:
             
             if inputed_manufacturer == manufacturer:
-                break
-            else:
-                print(f"Be sure to type in one of the available manufacturers shown above.\n")
+                loop = False
     
-
     for key, values in manuf_devices_dict.items():
         if key == inputed_manufacturer:
             available_devices = values
 
-    string = f'-AVAILABLE MANUFACTURERS-\n{available_devices}\n\n'
+    string = f'\n\n-AVAILABLE MANUFACTURERS-\n{available_devices}\n\n'
     print(string)
 
-    while True:
+    loop = True
+
+    while loop:
         inputed_device = input("What is the device of your instrument? ")
         inputed_device = inputed_device.upper()
         inputed_device = inputed_device.strip()
@@ -46,11 +47,11 @@ def get_users_instrument_options(manuf_devices_dict):
         for device in available_devices:
             
             if inputed_device == device:
-                break
-            else:
-                print(f"Be sure to type in one of the available manufacturers shown above.\n")
+                loop = False
 
     model_number = input("What is the model number? ")
+
+    return model_number, inputed_manufacturer, inputed_device
 
 
 def print_program_title():
