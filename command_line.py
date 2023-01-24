@@ -15,7 +15,7 @@ def get_users_instrument_options(manuf_devices_dict):
     for key, values in manuf_devices_dict.items():
         available_manuf.append(key)
 
-    string = f'-AVAILABLE MANUFACTURERS-\n{available_manuf}\n\n'
+    string = f'-AVAILABLE MANUFACTURERS-\n{available_manuf}\n'
     print(string)
     
     loop = True
@@ -34,7 +34,7 @@ def get_users_instrument_options(manuf_devices_dict):
         if key == inputed_manufacturer:
             available_devices = values
 
-    string = f'\n\n-AVAILABLE MANUFACTURERS-\n{available_devices}\n\n'
+    string = f'\n\n-AVAILABLE MANUFACTURERS-\n{available_devices}\n'
     print(string)
 
     loop = True
@@ -49,7 +49,7 @@ def get_users_instrument_options(manuf_devices_dict):
             if inputed_device == device:
                 loop = False
 
-    model_number = input("What is the model number? ")
+    model_number = input(f"\nWhat is the model number? ")
 
     return model_number, inputed_manufacturer, inputed_device
 
