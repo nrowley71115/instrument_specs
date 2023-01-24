@@ -1,0 +1,55 @@
+Model
+648, temperature transmitter
+Transmitter Type
+D, Wireless field mount
+Measurment Configuration
+1, Single-sensor input
+Housing Style
+D, Dual Compartment Housing - Aluminum
+E, Dual compartment Housing - SST
+Conduit Entry Size
+1, 1/2-4 NPT
+Product Certifications
+NA, No approval
+I5, FM Intrinsically Safe - Non-Incendive - and Dust Ignition-proof
+N5, FM Non-Incendive and Dust Ignition-proof
+I6, CSA Intrinsically Safe
+I1, ATEX Intrinsic Safety
+I7, ATEX Intrinsic Safety
+I2, INMETRO Intrinsic Safety
+I4, Japan Intrinsic Safety
+I3, China Intrinsic Safety
+IM, Technical Regulations Customs Union (EAC) Intrinsic Safety
+KQ, USA - Canada - ATEX Intrinsic Safety Combination (combination of I1 - I5 - and I6)
+Wireless Options - Assemble to options
+XA, Sensor specified separately and assembled to transmitter
+XC, Hand tight assembly of a transmitter and sensor
+Wireless update rate
+WA3, User configurable upadte rate - 2.4 GHz DSSS
+Wireless antenna and SmartPower
+WK1, External antenna - adapter for Black Power Module (I.S. Power Module sold separately)
+WM1, Extended range - external antenna - adapter for Black Power Module (I.S. Power Module sold separately)
+Mounting bracket
+B5, “L” mounting bracket for 2-in. pipe and panel mounting - All SST
+Display
+M5, LCD display
+Enhanced performance
+PT, Temperature measurement assembly with Rosemount X-well Technology
+Software configuration
+C1, Custom configuration of date - descriptor - message - and wireless parameters (requires CDS with order)
+Line filter
+F5, 50 Hz line voltage filter
+F6, 60 Hz line voltage filter
+Sensorm trim
+C2, Transmitter-sensor matching - trim to specific Rosemount RTD calibration schedule (CVD Constants)
+5-Point calibration
+C4, 5-point calibration (requires Q4 option code to generate a Calibration Certificate)
+Calibration certificate
+Q4, Calibration certificate (3-point calibration)
+Cable Gland option
+G2, Cable gland (7.5-11.9 mm)
+G4, Thin wire cable gland (3-8 mm)
+Extended product warranty
+WR3, 3-year limited warranty
+WR5, 5-year limited warranty
+END

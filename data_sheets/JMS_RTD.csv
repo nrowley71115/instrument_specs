@@ -1,0 +1,2213 @@
+Model
+3, JMD_RTD
+Element Type
+B, Resistor Accuracy: +- 0.30 C (Competitor's Std) - Thermometer Class: B 
+E, Resistor Accuracy: +- 0.15 C (Standard) - Thermometer Class: A
+P, Resistor Accuracy: +- 0.06 C - Thermometer Class: AA
+S, Resistor Accuracy: +- 0.03 C (Best Accuracy) - Thermometer Class: 1/4 A 
+N, Resistor Accuracy: +- 0.74 C (120 ohm) - Thermometer Class: Non-Standard
+M, Resistor Accuracy: +- 0.30 C (1000 ohm) - Thermometer Class: B
+X, Resistor Accuracy: Other Specify - Thermometer Class: n/a
+Element Construction
+S, Single Standard construction
+D, Dual Standard construction
+J, Single Swaged construction
+K, Dual Swaged construction
+X, Other - specify
+SV, Single High vivration Construction
+DV, Dual high virbration construction
+Tube Diameter
+P, 1/2" (.500")
+A, 3/8" (.375")
+Y, 5/16" (.313")
+B, 1/4" (.250")
+R, 6mm (.236")
+C, 3/16" (.188")
+D, 1/8" (.125")
+X, Other, specify
+Z, N/A
+Tip Construction
+N, Normal - closed tip (Standard) 
+K, Pointed tip 45 deg
+M, Weld pad 
+O, Weld pad - removable 
+R2, Gas/Air exposed 
+W, Enlarged tip 
+Y2, Reduced tip
+X, Other specify
+Tube Material
+K, 316 stainless steel
+L, 316L stainless steel
+M, I-600 (Use if symbol #7 >500°F)
+C, Teflon coated, stainless steel
+S, Titanium
+Q, Hastelloy C-276
+X, Other - specify
+Length (L)
+10, 10 in
+11, 11 in
+12, 12 in
+13, 13 in 
+14, 14 in
+15, 15 in
+16, 16 in
+17, 17 in
+18, 18 in
+19, 19 in
+20, 20 in
+21, 21 in
+22, 22 in
+23, 23 in
+24, 24 in
+25, 25 in
+26, 26 in
+27, 27 in
+28, 28 in 
+29, 29 in
+30, 30 in
+31, 31 in
+32, 32 in
+33, 33 in
+34, 34 in
+35, 35 in
+36, 36 in
+37, 37 in
+38, 38 in
+39, 39 in
+40, 40 in
+41, 41 in
+42, 42 in
+43, 43 in
+44, 44 in
+45, 45 in
+46, 46 in
+47, 47 in
+48, 48 in
+49, 49 in
+50, 50 in
+51, 51 in
+52, 52 in
+53, 53 in
+54, 54 in
+55, 55 in
+56, 56 in
+57, 57 in
+58, 58 in
+59, 59 in
+0, 0 in
+1, 1 in
+2, 2 in
+3, 3 in
+4, 4 in
+5, 5 in
+6, 6 in
+7, 7 in
+8, 8 in
+9, 9 in
+Max Temperature at which tip will be exposed
+A, <0 C (32 F) Cryogenic = 5 Kapton
+B, <200 C (392 F) = 3 Teflon
+C, <288 C (550 F) = 5 Kapton
+D, <350 C (662 F) = 1 Fiberglass
+E, <660 C (1220 F) = 4 High temperature fiberglass
+Standard Industrial Attaching Device
+X, Other - specify
+Z, n/a
+G, Single thread (process)
+F, Single thread (reversed)
+W, Double threaded
+H, SS w/ SS ferrule
+I, SS w/ Teflon ferrule
+J, SS w/ Lava ferrule
+K, SS w/ Nylon ferrule
+L, Brass w/ Brass ferrule
+D, Single threaded (process)
+C, Double threaded w/ oil seal
+A, Double w/ threaded retainer
+E, Adjustable spring
+S, Double threaded (most common)
+BDS, Single threaded bayonet w/ oil seal
+BS, Double threaded bayonet w/ oil seal
+BD, Single threaded bayonet
+B, Double threaded bayonet
+Process Connection Size and Type
+L, 1/8" NPT
+M, 1/4" NPT
+A, 3/8" NPT
+P, 1/2" NPT (Standard)
+O, 3/4" NPT
+X, Other - specify
+Z, N/A
+Lead Wire Type and Lenght in Inches
+1100, Fiberglass braid 100in long
+1101, Fiberglass braid 101in long
+1102, Fiberglass braid 102in long
+1103, Fiberglass braid 103in long
+1104, Fiberglass braid 104in long
+1105, Fiberglass braid 105in long
+1106, Fiberglass braid 106in long
+1107, Fiberglass braid 107in long
+1108, Fiberglass braid 108in long
+1109, Fiberglass braid 109in long
+1110, Fiberglass braid 110in long
+1111, Fiberglass braid 111in long
+1112, Fiberglass braid 112in long
+1113, Fiberglass braid 113in long
+1114, Fiberglass braid 114in long
+1115, Fiberglass braid 115in long
+1116, Fiberglass braid 116in long
+1117, Fiberglass braid 117in long
+1118, Fiberglass braid 118in long
+1119, Fiberglass braid 119in long
+1120, Fiberglass braid 120in long
+1121, Fiberglass braid 121in long
+1122, Fiberglass braid 122in long
+1123, Fiberglass braid 123in long
+1124, Fiberglass braid 124in long
+1125, Fiberglass braid 125in long
+1126, Fiberglass braid 126in long
+1127, Fiberglass braid 127in long
+1128, Fiberglass braid 128in long
+1129, Fiberglass braid 129in long
+1130, Fiberglass braid 130in long
+1131, Fiberglass braid 131in long
+1132, Fiberglass braid 132in long
+1133, Fiberglass braid 133in long
+1134, Fiberglass braid 134in long
+1135, Fiberglass braid 135in long
+1136, Fiberglass braid 136in long
+1137, Fiberglass braid 137in long
+1138, Fiberglass braid 138in long
+1139, Fiberglass braid 139in long
+1140, Fiberglass braid 140in long
+1141, Fiberglass braid 141in long
+1142, Fiberglass braid 142in long
+1143, Fiberglass braid 143in long
+1144, Fiberglass braid 144in long
+1145, Fiberglass braid 145in long
+1146, Fiberglass braid 146in long
+1147, Fiberglass braid 147in long
+1148, Fiberglass braid 148in long
+1149, Fiberglass braid 149in long
+1150, Fiberglass braid 150in long
+1151, Fiberglass braid 151in long
+1152, Fiberglass braid 152in long
+1153, Fiberglass braid 153in long
+1154, Fiberglass braid 154in long
+1155, Fiberglass braid 155in long
+1156, Fiberglass braid 156in long
+1157, Fiberglass braid 157in long
+1158, Fiberglass braid 158in long
+1159, Fiberglass braid 159in long
+1160, Fiberglass braid 160in long
+1161, Fiberglass braid 161in long
+1162, Fiberglass braid 162in long
+1163, Fiberglass braid 163in long
+1164, Fiberglass braid 164in long
+1165, Fiberglass braid 165in long
+1166, Fiberglass braid 166in long
+1167, Fiberglass braid 167in long
+1168, Fiberglass braid 168in long
+1169, Fiberglass braid 169in long
+1170, Fiberglass braid 170in long
+1171, Fiberglass braid 171in long
+1172, Fiberglass braid 172in long
+1173, Fiberglass braid 173in long
+1174, Fiberglass braid 174in long
+1175, Fiberglass braid 175in long
+1176, Fiberglass braid 176in long
+1177, Fiberglass braid 177in long
+1178, Fiberglass braid 178in long
+1179, Fiberglass braid 179in long
+1180, Fiberglass braid 180in long
+1181, Fiberglass braid 181in long
+1182, Fiberglass braid 182in long
+1183, Fiberglass braid 183in long
+1184, Fiberglass braid 184in long
+1185, Fiberglass braid 185in long
+1186, Fiberglass braid 186in long
+1187, Fiberglass braid 187in long
+1188, Fiberglass braid 188in long
+1189, Fiberglass braid 189in long
+1190, Fiberglass braid 190in long
+1191, Fiberglass braid 191in long
+1192, Fiberglass braid 192in long
+1193, Fiberglass braid 193in long
+1194, Fiberglass braid 194in long
+1195, Fiberglass braid 195in long
+1196, Fiberglass braid 196in long
+1197, Fiberglass braid 197in long
+1198, Fiberglass braid 198in long
+1199, Fiberglass braid 199in long
+1200, Fiberglass braid 200in long
+1201, Fiberglass braid 201in long
+1202, Fiberglass braid 202in long
+1203, Fiberglass braid 203in long
+1204, Fiberglass braid 204in long
+1205, Fiberglass braid 205in long
+1206, Fiberglass braid 206in long
+1207, Fiberglass braid 207in long
+1208, Fiberglass braid 208in long
+1209, Fiberglass braid 209in long
+1210, Fiberglass braid 210in long
+1211, Fiberglass braid 211in long
+1212, Fiberglass braid 212in long
+1213, Fiberglass braid 213in long
+1214, Fiberglass braid 214in long
+1215, Fiberglass braid 215in long
+1216, Fiberglass braid 216in long
+1217, Fiberglass braid 217in long
+1218, Fiberglass braid 218in long
+1219, Fiberglass braid 219in long
+1220, Fiberglass braid 220in long
+1221, Fiberglass braid 221in long
+1222, Fiberglass braid 222in long
+1223, Fiberglass braid 223in long
+1224, Fiberglass braid 224in long
+1225, Fiberglass braid 225in long
+1226, Fiberglass braid 226in long
+1227, Fiberglass braid 227in long
+1228, Fiberglass braid 228in long
+1229, Fiberglass braid 229in long
+1230, Fiberglass braid 230in long
+1231, Fiberglass braid 231in long
+1232, Fiberglass braid 232in long
+1233, Fiberglass braid 233in long
+1234, Fiberglass braid 234in long
+1235, Fiberglass braid 235in long
+1236, Fiberglass braid 236in long
+1237, Fiberglass braid 237in long
+1238, Fiberglass braid 238in long
+1239, Fiberglass braid 239in long
+1240, Fiberglass braid 240in long
+1241, Fiberglass braid 241in long
+1242, Fiberglass braid 242in long
+1243, Fiberglass braid 243in long
+1244, Fiberglass braid 244in long
+1245, Fiberglass braid 245in long
+1246, Fiberglass braid 246in long
+1247, Fiberglass braid 247in long
+1248, Fiberglass braid 248in long
+1249, Fiberglass braid 249in long
+1250, Fiberglass braid 250in long
+1251, Fiberglass braid 251in long
+1252, Fiberglass braid 252in long
+1253, Fiberglass braid 253in long
+1254, Fiberglass braid 254in long
+1255, Fiberglass braid 255in long
+1256, Fiberglass braid 256in long
+1257, Fiberglass braid 257in long
+1258, Fiberglass braid 258in long
+1259, Fiberglass braid 259in long
+1260, Fiberglass braid 260in long
+1261, Fiberglass braid 261in long
+1262, Fiberglass braid 262in long
+1263, Fiberglass braid 263in long
+1264, Fiberglass braid 264in long
+1265, Fiberglass braid 265in long
+1266, Fiberglass braid 266in long
+1267, Fiberglass braid 267in long
+1268, Fiberglass braid 268in long
+1269, Fiberglass braid 269in long
+1270, Fiberglass braid 270in long
+1271, Fiberglass braid 271in long
+1272, Fiberglass braid 272in long
+1273, Fiberglass braid 273in long
+1274, Fiberglass braid 274in long
+1275, Fiberglass braid 275in long
+1276, Fiberglass braid 276in long
+1277, Fiberglass braid 277in long
+1278, Fiberglass braid 278in long
+1279, Fiberglass braid 279in long
+1280, Fiberglass braid 280in long
+1281, Fiberglass braid 281in long
+1282, Fiberglass braid 282in long
+1283, Fiberglass braid 283in long
+1284, Fiberglass braid 284in long
+1285, Fiberglass braid 285in long
+1286, Fiberglass braid 286in long
+1287, Fiberglass braid 287in long
+1288, Fiberglass braid 288in long
+1289, Fiberglass braid 289in long
+1290, Fiberglass braid 290in long
+1291, Fiberglass braid 291in long
+1292, Fiberglass braid 292in long
+1293, Fiberglass braid 293in long
+1294, Fiberglass braid 294in long
+1295, Fiberglass braid 295in long
+1296, Fiberglass braid 296in long
+1297, Fiberglass braid 297in long
+1298, Fiberglass braid 298in long
+1299, Fiberglass braid 299in long
+1300, Fiberglass braid 300in long
+1301, Fiberglass braid 301in long
+1302, Fiberglass braid 302in long
+1303, Fiberglass braid 303in long
+1304, Fiberglass braid 304in long
+1305, Fiberglass braid 305in long
+1306, Fiberglass braid 306in long
+1307, Fiberglass braid 307in long
+1308, Fiberglass braid 308in long
+1309, Fiberglass braid 309in long
+1310, Fiberglass braid 310in long
+1311, Fiberglass braid 311in long
+1312, Fiberglass braid 312in long
+1313, Fiberglass braid 313in long
+1314, Fiberglass braid 314in long
+1315, Fiberglass braid 315in long
+1316, Fiberglass braid 316in long
+1317, Fiberglass braid 317in long
+1318, Fiberglass braid 318in long
+1319, Fiberglass braid 319in long
+1320, Fiberglass braid 320in long
+1321, Fiberglass braid 321in long
+1322, Fiberglass braid 322in long
+1323, Fiberglass braid 323in long
+1324, Fiberglass braid 324in long
+1325, Fiberglass braid 325in long
+1326, Fiberglass braid 326in long
+1327, Fiberglass braid 327in long
+1328, Fiberglass braid 328in long
+1329, Fiberglass braid 329in long
+1330, Fiberglass braid 330in long
+1331, Fiberglass braid 331in long
+1332, Fiberglass braid 332in long
+1333, Fiberglass braid 333in long
+1334, Fiberglass braid 334in long
+1335, Fiberglass braid 335in long
+1336, Fiberglass braid 336in long
+1337, Fiberglass braid 337in long
+1338, Fiberglass braid 338in long
+1339, Fiberglass braid 339in long
+1340, Fiberglass braid 340in long
+1341, Fiberglass braid 341in long
+1342, Fiberglass braid 342in long
+1343, Fiberglass braid 343in long
+1344, Fiberglass braid 344in long
+1345, Fiberglass braid 345in long
+1346, Fiberglass braid 346in long
+1347, Fiberglass braid 347in long
+1348, Fiberglass braid 348in long
+1349, Fiberglass braid 349in long
+1350, Fiberglass braid 350in long
+1351, Fiberglass braid 351in long
+1352, Fiberglass braid 352in long
+1353, Fiberglass braid 353in long
+1354, Fiberglass braid 354in long
+1355, Fiberglass braid 355in long
+1356, Fiberglass braid 356in long
+1357, Fiberglass braid 357in long
+1358, Fiberglass braid 358in long
+1359, Fiberglass braid 359in long
+1360, Fiberglass braid 360in long
+1361, Fiberglass braid 361in long
+1362, Fiberglass braid 362in long
+1363, Fiberglass braid 363in long
+1364, Fiberglass braid 364in long
+1365, Fiberglass braid 365in long
+1366, Fiberglass braid 366in long
+1367, Fiberglass braid 367in long
+1368, Fiberglass braid 368in long
+1369, Fiberglass braid 369in long
+1370, Fiberglass braid 370in long
+1371, Fiberglass braid 371in long
+1372, Fiberglass braid 372in long
+1373, Fiberglass braid 373in long
+1374, Fiberglass braid 374in long
+1375, Fiberglass braid 375in long
+1376, Fiberglass braid 376in long
+1377, Fiberglass braid 377in long
+1378, Fiberglass braid 378in long
+1379, Fiberglass braid 379in long
+1380, Fiberglass braid 380in long
+1381, Fiberglass braid 381in long
+1382, Fiberglass braid 382in long
+1383, Fiberglass braid 383in long
+1384, Fiberglass braid 384in long
+1385, Fiberglass braid 385in long
+1386, Fiberglass braid 386in long
+1387, Fiberglass braid 387in long
+1388, Fiberglass braid 388in long
+1389, Fiberglass braid 389in long
+1390, Fiberglass braid 390in long
+1391, Fiberglass braid 391in long
+1392, Fiberglass braid 392in long
+1393, Fiberglass braid 393in long
+1394, Fiberglass braid 394in long
+1395, Fiberglass braid 395in long
+1396, Fiberglass braid 396in long
+1397, Fiberglass braid 397in long
+1398, Fiberglass braid 398in long
+1399, Fiberglass braid 399in long
+110, Fiberglass braid 10in long
+111, Fiberglass braid 11in long
+112, Fiberglass braid 12in long
+113, Fiberglass braid 13in long
+114, Fiberglass braid 14in long
+115, Fiberglass braid 15in long
+116, Fiberglass braid 16in long
+117, Fiberglass braid 17in long
+118, Fiberglass braid 18in long
+119, Fiberglass braid 19in long
+120, Fiberglass braid 20in long
+121, Fiberglass braid 21in long
+122, Fiberglass braid 22in long
+123, Fiberglass braid 23in long
+124, Fiberglass braid 24in long
+125, Fiberglass braid 25in long
+126, Fiberglass braid 26in long
+127, Fiberglass braid 27in long
+128, Fiberglass braid 28in long
+129, Fiberglass braid 29in long
+130, Fiberglass braid 30in long
+131, Fiberglass braid 31in long
+132, Fiberglass braid 32in long
+133, Fiberglass braid 33in long
+134, Fiberglass braid 34in long
+135, Fiberglass braid 35in long
+136, Fiberglass braid 36in long
+137, Fiberglass braid 37in long
+138, Fiberglass braid 38in long
+139, Fiberglass braid 39in long
+140, Fiberglass braid 40in long
+141, Fiberglass braid 41in long
+142, Fiberglass braid 42in long
+143, Fiberglass braid 43in long
+144, Fiberglass braid 44in long
+145, Fiberglass braid 45in long
+146, Fiberglass braid 46in long
+147, Fiberglass braid 47in long
+148, Fiberglass braid 48in long
+149, Fiberglass braid 49in long
+150, Fiberglass braid 50in long
+151, Fiberglass braid 51in long
+152, Fiberglass braid 52in long
+153, Fiberglass braid 53in long
+154, Fiberglass braid 54in long
+155, Fiberglass braid 55in long
+156, Fiberglass braid 56in long
+157, Fiberglass braid 57in long
+158, Fiberglass braid 58in long
+159, Fiberglass braid 59in long
+160, Fiberglass braid 60in long
+161, Fiberglass braid 61in long
+162, Fiberglass braid 62in long
+163, Fiberglass braid 63in long
+164, Fiberglass braid 64in long
+165, Fiberglass braid 65in long
+166, Fiberglass braid 66in long
+167, Fiberglass braid 67in long
+168, Fiberglass braid 68in long
+169, Fiberglass braid 69in long
+170, Fiberglass braid 70in long
+171, Fiberglass braid 71in long
+172, Fiberglass braid 72in long
+173, Fiberglass braid 73in long
+174, Fiberglass braid 74in long
+175, Fiberglass braid 75in long
+176, Fiberglass braid 76in long
+177, Fiberglass braid 77in long
+178, Fiberglass braid 78in long
+179, Fiberglass braid 79in long
+180, Fiberglass braid 80in long
+181, Fiberglass braid 81in long
+182, Fiberglass braid 82in long
+183, Fiberglass braid 83in long
+184, Fiberglass braid 84in long
+185, Fiberglass braid 85in long
+186, Fiberglass braid 86in long
+187, Fiberglass braid 87in long
+188, Fiberglass braid 88in long
+189, Fiberglass braid 89in long
+190, Fiberglass braid 90in long
+191, Fiberglass braid 91in long
+192, Fiberglass braid 92in long
+193, Fiberglass braid 93in long
+194, Fiberglass braid 94in long
+195, Fiberglass braid 95in long
+196, Fiberglass braid 96in long
+197, Fiberglass braid 97in long
+198, Fiberglass braid 98in long
+199, Fiberglass braid 99in long
+10, Fiberglass braid 0in long
+11, Fiberglass braid 1in long
+12, Fiberglass braid 2in long
+13, Fiberglass braid 3in long
+14, Fiberglass braid 4in long
+15, Fiberglass braid 5in long
+16, Fiberglass braid 6in long
+17, Fiberglass braid 7in long
+18, Fiberglass braid 8in long
+19, Fiberglass braid 9in long
+3100, Teflon (Standard) 100in long
+3101, Teflon (Standard) 101in long
+3102, Teflon (Standard) 102in long
+3103, Teflon (Standard) 103in long
+3104, Teflon (Standard) 104in long
+3105, Teflon (Standard) 105in long
+3106, Teflon (Standard) 106in long
+3107, Teflon (Standard) 107in long
+3108, Teflon (Standard) 108in long
+3109, Teflon (Standard) 109in long
+3110, Teflon (Standard) 110in long
+3111, Teflon (Standard) 111in long
+3112, Teflon (Standard) 112in long
+3113, Teflon (Standard) 113in long
+3114, Teflon (Standard) 114in long
+3115, Teflon (Standard) 115in long
+3116, Teflon (Standard) 116in long
+3117, Teflon (Standard) 117in long
+3118, Teflon (Standard) 118in long
+3119, Teflon (Standard) 119in long
+3120, Teflon (Standard) 120in long
+3121, Teflon (Standard) 121in long
+3122, Teflon (Standard) 122in long
+3123, Teflon (Standard) 123in long
+3124, Teflon (Standard) 124in long
+3125, Teflon (Standard) 125in long
+3126, Teflon (Standard) 126in long
+3127, Teflon (Standard) 127in long
+3128, Teflon (Standard) 128in long
+3129, Teflon (Standard) 129in long
+3130, Teflon (Standard) 130in long
+3131, Teflon (Standard) 131in long
+3132, Teflon (Standard) 132in long
+3133, Teflon (Standard) 133in long
+3134, Teflon (Standard) 134in long
+3135, Teflon (Standard) 135in long
+3136, Teflon (Standard) 136in long
+3137, Teflon (Standard) 137in long
+3138, Teflon (Standard) 138in long
+3139, Teflon (Standard) 139in long
+3140, Teflon (Standard) 140in long
+3141, Teflon (Standard) 141in long
+3142, Teflon (Standard) 142in long
+3143, Teflon (Standard) 143in long
+3144, Teflon (Standard) 144in long
+3145, Teflon (Standard) 145in long
+3146, Teflon (Standard) 146in long
+3147, Teflon (Standard) 147in long
+3148, Teflon (Standard) 148in long
+3149, Teflon (Standard) 149in long
+3150, Teflon (Standard) 150in long
+3151, Teflon (Standard) 151in long
+3152, Teflon (Standard) 152in long
+3153, Teflon (Standard) 153in long
+3154, Teflon (Standard) 154in long
+3155, Teflon (Standard) 155in long
+3156, Teflon (Standard) 156in long
+3157, Teflon (Standard) 157in long
+3158, Teflon (Standard) 158in long
+3159, Teflon (Standard) 159in long
+3160, Teflon (Standard) 160in long
+3161, Teflon (Standard) 161in long
+3162, Teflon (Standard) 162in long
+3163, Teflon (Standard) 163in long
+3164, Teflon (Standard) 164in long
+3165, Teflon (Standard) 165in long
+3166, Teflon (Standard) 166in long
+3167, Teflon (Standard) 167in long
+3168, Teflon (Standard) 168in long
+3169, Teflon (Standard) 169in long
+3170, Teflon (Standard) 170in long
+3171, Teflon (Standard) 171in long
+3172, Teflon (Standard) 172in long
+3173, Teflon (Standard) 173in long
+3174, Teflon (Standard) 174in long
+3175, Teflon (Standard) 175in long
+3176, Teflon (Standard) 176in long
+3177, Teflon (Standard) 177in long
+3178, Teflon (Standard) 178in long
+3179, Teflon (Standard) 179in long
+3180, Teflon (Standard) 180in long
+3181, Teflon (Standard) 181in long
+3182, Teflon (Standard) 182in long
+3183, Teflon (Standard) 183in long
+3184, Teflon (Standard) 184in long
+3185, Teflon (Standard) 185in long
+3186, Teflon (Standard) 186in long
+3187, Teflon (Standard) 187in long
+3188, Teflon (Standard) 188in long
+3189, Teflon (Standard) 189in long
+3190, Teflon (Standard) 190in long
+3191, Teflon (Standard) 191in long
+3192, Teflon (Standard) 192in long
+3193, Teflon (Standard) 193in long
+3194, Teflon (Standard) 194in long
+3195, Teflon (Standard) 195in long
+3196, Teflon (Standard) 196in long
+3197, Teflon (Standard) 197in long
+3198, Teflon (Standard) 198in long
+3199, Teflon (Standard) 199in long
+3200, Teflon (Standard) 200in long
+3201, Teflon (Standard) 201in long
+3202, Teflon (Standard) 202in long
+3203, Teflon (Standard) 203in long
+3204, Teflon (Standard) 204in long
+3205, Teflon (Standard) 205in long
+3206, Teflon (Standard) 206in long
+3207, Teflon (Standard) 207in long
+3208, Teflon (Standard) 208in long
+3209, Teflon (Standard) 209in long
+3210, Teflon (Standard) 210in long
+3211, Teflon (Standard) 211in long
+3212, Teflon (Standard) 212in long
+3213, Teflon (Standard) 213in long
+3214, Teflon (Standard) 214in long
+3215, Teflon (Standard) 215in long
+3216, Teflon (Standard) 216in long
+3217, Teflon (Standard) 217in long
+3218, Teflon (Standard) 218in long
+3219, Teflon (Standard) 219in long
+3220, Teflon (Standard) 220in long
+3221, Teflon (Standard) 221in long
+3222, Teflon (Standard) 222in long
+3223, Teflon (Standard) 223in long
+3224, Teflon (Standard) 224in long
+3225, Teflon (Standard) 225in long
+3226, Teflon (Standard) 226in long
+3227, Teflon (Standard) 227in long
+3228, Teflon (Standard) 228in long
+3229, Teflon (Standard) 229in long
+3230, Teflon (Standard) 230in long
+3231, Teflon (Standard) 231in long
+3232, Teflon (Standard) 232in long
+3233, Teflon (Standard) 233in long
+3234, Teflon (Standard) 234in long
+3235, Teflon (Standard) 235in long
+3236, Teflon (Standard) 236in long
+3237, Teflon (Standard) 237in long
+3238, Teflon (Standard) 238in long
+3239, Teflon (Standard) 239in long
+3240, Teflon (Standard) 240in long
+3241, Teflon (Standard) 241in long
+3242, Teflon (Standard) 242in long
+3243, Teflon (Standard) 243in long
+3244, Teflon (Standard) 244in long
+3245, Teflon (Standard) 245in long
+3246, Teflon (Standard) 246in long
+3247, Teflon (Standard) 247in long
+3248, Teflon (Standard) 248in long
+3249, Teflon (Standard) 249in long
+3250, Teflon (Standard) 250in long
+3251, Teflon (Standard) 251in long
+3252, Teflon (Standard) 252in long
+3253, Teflon (Standard) 253in long
+3254, Teflon (Standard) 254in long
+3255, Teflon (Standard) 255in long
+3256, Teflon (Standard) 256in long
+3257, Teflon (Standard) 257in long
+3258, Teflon (Standard) 258in long
+3259, Teflon (Standard) 259in long
+3260, Teflon (Standard) 260in long
+3261, Teflon (Standard) 261in long
+3262, Teflon (Standard) 262in long
+3263, Teflon (Standard) 263in long
+3264, Teflon (Standard) 264in long
+3265, Teflon (Standard) 265in long
+3266, Teflon (Standard) 266in long
+3267, Teflon (Standard) 267in long
+3268, Teflon (Standard) 268in long
+3269, Teflon (Standard) 269in long
+3270, Teflon (Standard) 270in long
+3271, Teflon (Standard) 271in long
+3272, Teflon (Standard) 272in long
+3273, Teflon (Standard) 273in long
+3274, Teflon (Standard) 274in long
+3275, Teflon (Standard) 275in long
+3276, Teflon (Standard) 276in long
+3277, Teflon (Standard) 277in long
+3278, Teflon (Standard) 278in long
+3279, Teflon (Standard) 279in long
+3280, Teflon (Standard) 280in long
+3281, Teflon (Standard) 281in long
+3282, Teflon (Standard) 282in long
+3283, Teflon (Standard) 283in long
+3284, Teflon (Standard) 284in long
+3285, Teflon (Standard) 285in long
+3286, Teflon (Standard) 286in long
+3287, Teflon (Standard) 287in long
+3288, Teflon (Standard) 288in long
+3289, Teflon (Standard) 289in long
+3290, Teflon (Standard) 290in long
+3291, Teflon (Standard) 291in long
+3292, Teflon (Standard) 292in long
+3293, Teflon (Standard) 293in long
+3294, Teflon (Standard) 294in long
+3295, Teflon (Standard) 295in long
+3296, Teflon (Standard) 296in long
+3297, Teflon (Standard) 297in long
+3298, Teflon (Standard) 298in long
+3299, Teflon (Standard) 299in long
+3300, Teflon (Standard) 300in long
+3301, Teflon (Standard) 301in long
+3302, Teflon (Standard) 302in long
+3303, Teflon (Standard) 303in long
+3304, Teflon (Standard) 304in long
+3305, Teflon (Standard) 305in long
+3306, Teflon (Standard) 306in long
+3307, Teflon (Standard) 307in long
+3308, Teflon (Standard) 308in long
+3309, Teflon (Standard) 309in long
+3310, Teflon (Standard) 310in long
+3311, Teflon (Standard) 311in long
+3312, Teflon (Standard) 312in long
+3313, Teflon (Standard) 313in long
+3314, Teflon (Standard) 314in long
+3315, Teflon (Standard) 315in long
+3316, Teflon (Standard) 316in long
+3317, Teflon (Standard) 317in long
+3318, Teflon (Standard) 318in long
+3319, Teflon (Standard) 319in long
+3320, Teflon (Standard) 320in long
+3321, Teflon (Standard) 321in long
+3322, Teflon (Standard) 322in long
+3323, Teflon (Standard) 323in long
+3324, Teflon (Standard) 324in long
+3325, Teflon (Standard) 325in long
+3326, Teflon (Standard) 326in long
+3327, Teflon (Standard) 327in long
+3328, Teflon (Standard) 328in long
+3329, Teflon (Standard) 329in long
+3330, Teflon (Standard) 330in long
+3331, Teflon (Standard) 331in long
+3332, Teflon (Standard) 332in long
+3333, Teflon (Standard) 333in long
+3334, Teflon (Standard) 334in long
+3335, Teflon (Standard) 335in long
+3336, Teflon (Standard) 336in long
+3337, Teflon (Standard) 337in long
+3338, Teflon (Standard) 338in long
+3339, Teflon (Standard) 339in long
+3340, Teflon (Standard) 340in long
+3341, Teflon (Standard) 341in long
+3342, Teflon (Standard) 342in long
+3343, Teflon (Standard) 343in long
+3344, Teflon (Standard) 344in long
+3345, Teflon (Standard) 345in long
+3346, Teflon (Standard) 346in long
+3347, Teflon (Standard) 347in long
+3348, Teflon (Standard) 348in long
+3349, Teflon (Standard) 349in long
+3350, Teflon (Standard) 350in long
+3351, Teflon (Standard) 351in long
+3352, Teflon (Standard) 352in long
+3353, Teflon (Standard) 353in long
+3354, Teflon (Standard) 354in long
+3355, Teflon (Standard) 355in long
+3356, Teflon (Standard) 356in long
+3357, Teflon (Standard) 357in long
+3358, Teflon (Standard) 358in long
+3359, Teflon (Standard) 359in long
+3360, Teflon (Standard) 360in long
+3361, Teflon (Standard) 361in long
+3362, Teflon (Standard) 362in long
+3363, Teflon (Standard) 363in long
+3364, Teflon (Standard) 364in long
+3365, Teflon (Standard) 365in long
+3366, Teflon (Standard) 366in long
+3367, Teflon (Standard) 367in long
+3368, Teflon (Standard) 368in long
+3369, Teflon (Standard) 369in long
+3370, Teflon (Standard) 370in long
+3371, Teflon (Standard) 371in long
+3372, Teflon (Standard) 372in long
+3373, Teflon (Standard) 373in long
+3374, Teflon (Standard) 374in long
+3375, Teflon (Standard) 375in long
+3376, Teflon (Standard) 376in long
+3377, Teflon (Standard) 377in long
+3378, Teflon (Standard) 378in long
+3379, Teflon (Standard) 379in long
+3380, Teflon (Standard) 380in long
+3381, Teflon (Standard) 381in long
+3382, Teflon (Standard) 382in long
+3383, Teflon (Standard) 383in long
+3384, Teflon (Standard) 384in long
+3385, Teflon (Standard) 385in long
+3386, Teflon (Standard) 386in long
+3387, Teflon (Standard) 387in long
+3388, Teflon (Standard) 388in long
+3389, Teflon (Standard) 389in long
+3390, Teflon (Standard) 390in long
+3391, Teflon (Standard) 391in long
+3392, Teflon (Standard) 392in long
+3393, Teflon (Standard) 393in long
+3394, Teflon (Standard) 394in long
+3395, Teflon (Standard) 395in long
+3396, Teflon (Standard) 396in long
+3397, Teflon (Standard) 397in long
+3398, Teflon (Standard) 398in long
+3399, Teflon (Standard) 399in long
+310, Teflon (Standard) 10in long
+311, Teflon (Standard) 11in long
+312, Teflon (Standard) 12in long
+313, Teflon (Standard) 13in long
+314, Teflon (Standard) 14in long
+315, Teflon (Standard) 15in long
+316, Teflon (Standard) 16in long
+317, Teflon (Standard) 17in long
+318, Teflon (Standard) 18in long
+319, Teflon (Standard) 19in long
+320, Teflon (Standard) 20in long
+321, Teflon (Standard) 21in long
+322, Teflon (Standard) 22in long
+323, Teflon (Standard) 23in long
+324, Teflon (Standard) 24in long
+325, Teflon (Standard) 25in long
+326, Teflon (Standard) 26in long
+327, Teflon (Standard) 27in long
+328, Teflon (Standard) 28in long
+329, Teflon (Standard) 29in long
+330, Teflon (Standard) 30in long
+331, Teflon (Standard) 31in long
+332, Teflon (Standard) 32in long
+333, Teflon (Standard) 33in long
+334, Teflon (Standard) 34in long
+335, Teflon (Standard) 35in long
+336, Teflon (Standard) 36in long
+337, Teflon (Standard) 37in long
+338, Teflon (Standard) 38in long
+339, Teflon (Standard) 39in long
+340, Teflon (Standard) 40in long
+341, Teflon (Standard) 41in long
+342, Teflon (Standard) 42in long
+343, Teflon (Standard) 43in long
+344, Teflon (Standard) 44in long
+345, Teflon (Standard) 45in long
+346, Teflon (Standard) 46in long
+347, Teflon (Standard) 47in long
+348, Teflon (Standard) 48in long
+349, Teflon (Standard) 49in long
+350, Teflon (Standard) 50in long
+351, Teflon (Standard) 51in long
+352, Teflon (Standard) 52in long
+353, Teflon (Standard) 53in long
+354, Teflon (Standard) 54in long
+355, Teflon (Standard) 55in long
+356, Teflon (Standard) 56in long
+357, Teflon (Standard) 57in long
+358, Teflon (Standard) 58in long
+359, Teflon (Standard) 59in long
+360, Teflon (Standard) 60in long
+361, Teflon (Standard) 61in long
+362, Teflon (Standard) 62in long
+363, Teflon (Standard) 63in long
+364, Teflon (Standard) 64in long
+365, Teflon (Standard) 65in long
+366, Teflon (Standard) 66in long
+367, Teflon (Standard) 67in long
+368, Teflon (Standard) 68in long
+369, Teflon (Standard) 69in long
+370, Teflon (Standard) 70in long
+371, Teflon (Standard) 71in long
+372, Teflon (Standard) 72in long
+373, Teflon (Standard) 73in long
+374, Teflon (Standard) 74in long
+375, Teflon (Standard) 75in long
+376, Teflon (Standard) 76in long
+377, Teflon (Standard) 77in long
+378, Teflon (Standard) 78in long
+379, Teflon (Standard) 79in long
+380, Teflon (Standard) 80in long
+381, Teflon (Standard) 81in long
+382, Teflon (Standard) 82in long
+383, Teflon (Standard) 83in long
+384, Teflon (Standard) 84in long
+385, Teflon (Standard) 85in long
+386, Teflon (Standard) 86in long
+387, Teflon (Standard) 87in long
+388, Teflon (Standard) 88in long
+389, Teflon (Standard) 89in long
+390, Teflon (Standard) 90in long
+391, Teflon (Standard) 91in long
+392, Teflon (Standard) 92in long
+393, Teflon (Standard) 93in long
+394, Teflon (Standard) 94in long
+395, Teflon (Standard) 95in long
+396, Teflon (Standard) 96in long
+397, Teflon (Standard) 97in long
+398, Teflon (Standard) 98in long
+399, Teflon (Standard) 99in long
+30, Teflon (Standard) 0in long
+31, Teflon (Standard) 1in long
+32, Teflon (Standard) 2in long
+33, Teflon (Standard) 3in long
+34, Teflon (Standard) 4in long
+35, Teflon (Standard) 5in long
+36, Teflon (Standard) 6in long
+37, Teflon (Standard) 7in long
+38, Teflon (Standard) 8in long
+39, Teflon (Standard) 9in long
+4100, High temperature fiberglass braid 100in long
+4101, High temperature fiberglass braid 101in long
+4102, High temperature fiberglass braid 102in long
+4103, High temperature fiberglass braid 103in long
+4104, High temperature fiberglass braid 104in long
+4105, High temperature fiberglass braid 105in long
+4106, High temperature fiberglass braid 106in long
+4107, High temperature fiberglass braid 107in long
+4108, High temperature fiberglass braid 108in long
+4109, High temperature fiberglass braid 109in long
+4110, High temperature fiberglass braid 110in long
+4111, High temperature fiberglass braid 111in long
+4112, High temperature fiberglass braid 112in long
+4113, High temperature fiberglass braid 113in long
+4114, High temperature fiberglass braid 114in long
+4115, High temperature fiberglass braid 115in long
+4116, High temperature fiberglass braid 116in long
+4117, High temperature fiberglass braid 117in long
+4118, High temperature fiberglass braid 118in long
+4119, High temperature fiberglass braid 119in long
+4120, High temperature fiberglass braid 120in long
+4121, High temperature fiberglass braid 121in long
+4122, High temperature fiberglass braid 122in long
+4123, High temperature fiberglass braid 123in long
+4124, High temperature fiberglass braid 124in long
+4125, High temperature fiberglass braid 125in long
+4126, High temperature fiberglass braid 126in long
+4127, High temperature fiberglass braid 127in long
+4128, High temperature fiberglass braid 128in long
+4129, High temperature fiberglass braid 129in long
+4130, High temperature fiberglass braid 130in long
+4131, High temperature fiberglass braid 131in long
+4132, High temperature fiberglass braid 132in long
+4133, High temperature fiberglass braid 133in long
+4134, High temperature fiberglass braid 134in long
+4135, High temperature fiberglass braid 135in long
+4136, High temperature fiberglass braid 136in long
+4137, High temperature fiberglass braid 137in long
+4138, High temperature fiberglass braid 138in long
+4139, High temperature fiberglass braid 139in long
+4140, High temperature fiberglass braid 140in long
+4141, High temperature fiberglass braid 141in long
+4142, High temperature fiberglass braid 142in long
+4143, High temperature fiberglass braid 143in long
+4144, High temperature fiberglass braid 144in long
+4145, High temperature fiberglass braid 145in long
+4146, High temperature fiberglass braid 146in long
+4147, High temperature fiberglass braid 147in long
+4148, High temperature fiberglass braid 148in long
+4149, High temperature fiberglass braid 149in long
+4150, High temperature fiberglass braid 150in long
+4151, High temperature fiberglass braid 151in long
+4152, High temperature fiberglass braid 152in long
+4153, High temperature fiberglass braid 153in long
+4154, High temperature fiberglass braid 154in long
+4155, High temperature fiberglass braid 155in long
+4156, High temperature fiberglass braid 156in long
+4157, High temperature fiberglass braid 157in long
+4158, High temperature fiberglass braid 158in long
+4159, High temperature fiberglass braid 159in long
+4160, High temperature fiberglass braid 160in long
+4161, High temperature fiberglass braid 161in long
+4162, High temperature fiberglass braid 162in long
+4163, High temperature fiberglass braid 163in long
+4164, High temperature fiberglass braid 164in long
+4165, High temperature fiberglass braid 165in long
+4166, High temperature fiberglass braid 166in long
+4167, High temperature fiberglass braid 167in long
+4168, High temperature fiberglass braid 168in long
+4169, High temperature fiberglass braid 169in long
+4170, High temperature fiberglass braid 170in long
+4171, High temperature fiberglass braid 171in long
+4172, High temperature fiberglass braid 172in long
+4173, High temperature fiberglass braid 173in long
+4174, High temperature fiberglass braid 174in long
+4175, High temperature fiberglass braid 175in long
+4176, High temperature fiberglass braid 176in long
+4177, High temperature fiberglass braid 177in long
+4178, High temperature fiberglass braid 178in long
+4179, High temperature fiberglass braid 179in long
+4180, High temperature fiberglass braid 180in long
+4181, High temperature fiberglass braid 181in long
+4182, High temperature fiberglass braid 182in long
+4183, High temperature fiberglass braid 183in long
+4184, High temperature fiberglass braid 184in long
+4185, High temperature fiberglass braid 185in long
+4186, High temperature fiberglass braid 186in long
+4187, High temperature fiberglass braid 187in long
+4188, High temperature fiberglass braid 188in long
+4189, High temperature fiberglass braid 189in long
+4190, High temperature fiberglass braid 190in long
+4191, High temperature fiberglass braid 191in long
+4192, High temperature fiberglass braid 192in long
+4193, High temperature fiberglass braid 193in long
+4194, High temperature fiberglass braid 194in long
+4195, High temperature fiberglass braid 195in long
+4196, High temperature fiberglass braid 196in long
+4197, High temperature fiberglass braid 197in long
+4198, High temperature fiberglass braid 198in long
+4199, High temperature fiberglass braid 199in long
+4200, High temperature fiberglass braid 200in long
+4201, High temperature fiberglass braid 201in long
+4202, High temperature fiberglass braid 202in long
+4203, High temperature fiberglass braid 203in long
+4204, High temperature fiberglass braid 204in long
+4205, High temperature fiberglass braid 205in long
+4206, High temperature fiberglass braid 206in long
+4207, High temperature fiberglass braid 207in long
+4208, High temperature fiberglass braid 208in long
+4209, High temperature fiberglass braid 209in long
+4210, High temperature fiberglass braid 210in long
+4211, High temperature fiberglass braid 211in long
+4212, High temperature fiberglass braid 212in long
+4213, High temperature fiberglass braid 213in long
+4214, High temperature fiberglass braid 214in long
+4215, High temperature fiberglass braid 215in long
+4216, High temperature fiberglass braid 216in long
+4217, High temperature fiberglass braid 217in long
+4218, High temperature fiberglass braid 218in long
+4219, High temperature fiberglass braid 219in long
+4220, High temperature fiberglass braid 220in long
+4221, High temperature fiberglass braid 221in long
+4222, High temperature fiberglass braid 222in long
+4223, High temperature fiberglass braid 223in long
+4224, High temperature fiberglass braid 224in long
+4225, High temperature fiberglass braid 225in long
+4226, High temperature fiberglass braid 226in long
+4227, High temperature fiberglass braid 227in long
+4228, High temperature fiberglass braid 228in long
+4229, High temperature fiberglass braid 229in long
+4230, High temperature fiberglass braid 230in long
+4231, High temperature fiberglass braid 231in long
+4232, High temperature fiberglass braid 232in long
+4233, High temperature fiberglass braid 233in long
+4234, High temperature fiberglass braid 234in long
+4235, High temperature fiberglass braid 235in long
+4236, High temperature fiberglass braid 236in long
+4237, High temperature fiberglass braid 237in long
+4238, High temperature fiberglass braid 238in long
+4239, High temperature fiberglass braid 239in long
+4240, High temperature fiberglass braid 240in long
+4241, High temperature fiberglass braid 241in long
+4242, High temperature fiberglass braid 242in long
+4243, High temperature fiberglass braid 243in long
+4244, High temperature fiberglass braid 244in long
+4245, High temperature fiberglass braid 245in long
+4246, High temperature fiberglass braid 246in long
+4247, High temperature fiberglass braid 247in long
+4248, High temperature fiberglass braid 248in long
+4249, High temperature fiberglass braid 249in long
+4250, High temperature fiberglass braid 250in long
+4251, High temperature fiberglass braid 251in long
+4252, High temperature fiberglass braid 252in long
+4253, High temperature fiberglass braid 253in long
+4254, High temperature fiberglass braid 254in long
+4255, High temperature fiberglass braid 255in long
+4256, High temperature fiberglass braid 256in long
+4257, High temperature fiberglass braid 257in long
+4258, High temperature fiberglass braid 258in long
+4259, High temperature fiberglass braid 259in long
+4260, High temperature fiberglass braid 260in long
+4261, High temperature fiberglass braid 261in long
+4262, High temperature fiberglass braid 262in long
+4263, High temperature fiberglass braid 263in long
+4264, High temperature fiberglass braid 264in long
+4265, High temperature fiberglass braid 265in long
+4266, High temperature fiberglass braid 266in long
+4267, High temperature fiberglass braid 267in long
+4268, High temperature fiberglass braid 268in long
+4269, High temperature fiberglass braid 269in long
+4270, High temperature fiberglass braid 270in long
+4271, High temperature fiberglass braid 271in long
+4272, High temperature fiberglass braid 272in long
+4273, High temperature fiberglass braid 273in long
+4274, High temperature fiberglass braid 274in long
+4275, High temperature fiberglass braid 275in long
+4276, High temperature fiberglass braid 276in long
+4277, High temperature fiberglass braid 277in long
+4278, High temperature fiberglass braid 278in long
+4279, High temperature fiberglass braid 279in long
+4280, High temperature fiberglass braid 280in long
+4281, High temperature fiberglass braid 281in long
+4282, High temperature fiberglass braid 282in long
+4283, High temperature fiberglass braid 283in long
+4284, High temperature fiberglass braid 284in long
+4285, High temperature fiberglass braid 285in long
+4286, High temperature fiberglass braid 286in long
+4287, High temperature fiberglass braid 287in long
+4288, High temperature fiberglass braid 288in long
+4289, High temperature fiberglass braid 289in long
+4290, High temperature fiberglass braid 290in long
+4291, High temperature fiberglass braid 291in long
+4292, High temperature fiberglass braid 292in long
+4293, High temperature fiberglass braid 293in long
+4294, High temperature fiberglass braid 294in long
+4295, High temperature fiberglass braid 295in long
+4296, High temperature fiberglass braid 296in long
+4297, High temperature fiberglass braid 297in long
+4298, High temperature fiberglass braid 298in long
+4299, High temperature fiberglass braid 299in long
+4300, High temperature fiberglass braid 300in long
+4301, High temperature fiberglass braid 301in long
+4302, High temperature fiberglass braid 302in long
+4303, High temperature fiberglass braid 303in long
+4304, High temperature fiberglass braid 304in long
+4305, High temperature fiberglass braid 305in long
+4306, High temperature fiberglass braid 306in long
+4307, High temperature fiberglass braid 307in long
+4308, High temperature fiberglass braid 308in long
+4309, High temperature fiberglass braid 309in long
+4310, High temperature fiberglass braid 310in long
+4311, High temperature fiberglass braid 311in long
+4312, High temperature fiberglass braid 312in long
+4313, High temperature fiberglass braid 313in long
+4314, High temperature fiberglass braid 314in long
+4315, High temperature fiberglass braid 315in long
+4316, High temperature fiberglass braid 316in long
+4317, High temperature fiberglass braid 317in long
+4318, High temperature fiberglass braid 318in long
+4319, High temperature fiberglass braid 319in long
+4320, High temperature fiberglass braid 320in long
+4321, High temperature fiberglass braid 321in long
+4322, High temperature fiberglass braid 322in long
+4323, High temperature fiberglass braid 323in long
+4324, High temperature fiberglass braid 324in long
+4325, High temperature fiberglass braid 325in long
+4326, High temperature fiberglass braid 326in long
+4327, High temperature fiberglass braid 327in long
+4328, High temperature fiberglass braid 328in long
+4329, High temperature fiberglass braid 329in long
+4330, High temperature fiberglass braid 330in long
+4331, High temperature fiberglass braid 331in long
+4332, High temperature fiberglass braid 332in long
+4333, High temperature fiberglass braid 333in long
+4334, High temperature fiberglass braid 334in long
+4335, High temperature fiberglass braid 335in long
+4336, High temperature fiberglass braid 336in long
+4337, High temperature fiberglass braid 337in long
+4338, High temperature fiberglass braid 338in long
+4339, High temperature fiberglass braid 339in long
+4340, High temperature fiberglass braid 340in long
+4341, High temperature fiberglass braid 341in long
+4342, High temperature fiberglass braid 342in long
+4343, High temperature fiberglass braid 343in long
+4344, High temperature fiberglass braid 344in long
+4345, High temperature fiberglass braid 345in long
+4346, High temperature fiberglass braid 346in long
+4347, High temperature fiberglass braid 347in long
+4348, High temperature fiberglass braid 348in long
+4349, High temperature fiberglass braid 349in long
+4350, High temperature fiberglass braid 350in long
+4351, High temperature fiberglass braid 351in long
+4352, High temperature fiberglass braid 352in long
+4353, High temperature fiberglass braid 353in long
+4354, High temperature fiberglass braid 354in long
+4355, High temperature fiberglass braid 355in long
+4356, High temperature fiberglass braid 356in long
+4357, High temperature fiberglass braid 357in long
+4358, High temperature fiberglass braid 358in long
+4359, High temperature fiberglass braid 359in long
+4360, High temperature fiberglass braid 360in long
+4361, High temperature fiberglass braid 361in long
+4362, High temperature fiberglass braid 362in long
+4363, High temperature fiberglass braid 363in long
+4364, High temperature fiberglass braid 364in long
+4365, High temperature fiberglass braid 365in long
+4366, High temperature fiberglass braid 366in long
+4367, High temperature fiberglass braid 367in long
+4368, High temperature fiberglass braid 368in long
+4369, High temperature fiberglass braid 369in long
+4370, High temperature fiberglass braid 370in long
+4371, High temperature fiberglass braid 371in long
+4372, High temperature fiberglass braid 372in long
+4373, High temperature fiberglass braid 373in long
+4374, High temperature fiberglass braid 374in long
+4375, High temperature fiberglass braid 375in long
+4376, High temperature fiberglass braid 376in long
+4377, High temperature fiberglass braid 377in long
+4378, High temperature fiberglass braid 378in long
+4379, High temperature fiberglass braid 379in long
+4380, High temperature fiberglass braid 380in long
+4381, High temperature fiberglass braid 381in long
+4382, High temperature fiberglass braid 382in long
+4383, High temperature fiberglass braid 383in long
+4384, High temperature fiberglass braid 384in long
+4385, High temperature fiberglass braid 385in long
+4386, High temperature fiberglass braid 386in long
+4387, High temperature fiberglass braid 387in long
+4388, High temperature fiberglass braid 388in long
+4389, High temperature fiberglass braid 389in long
+4390, High temperature fiberglass braid 390in long
+4391, High temperature fiberglass braid 391in long
+4392, High temperature fiberglass braid 392in long
+4393, High temperature fiberglass braid 393in long
+4394, High temperature fiberglass braid 394in long
+4395, High temperature fiberglass braid 395in long
+4396, High temperature fiberglass braid 396in long
+4397, High temperature fiberglass braid 397in long
+4398, High temperature fiberglass braid 398in long
+4399, High temperature fiberglass braid 399in long
+410, High temperature fiberglass braid 10in long
+411, High temperature fiberglass braid 11in long
+412, High temperature fiberglass braid 12in long
+413, High temperature fiberglass braid 13in long
+414, High temperature fiberglass braid 14in long
+415, High temperature fiberglass braid 15in long
+416, High temperature fiberglass braid 16in long
+417, High temperature fiberglass braid 17in long
+418, High temperature fiberglass braid 18in long
+419, High temperature fiberglass braid 19in long
+420, High temperature fiberglass braid 20in long
+421, High temperature fiberglass braid 21in long
+422, High temperature fiberglass braid 22in long
+423, High temperature fiberglass braid 23in long
+424, High temperature fiberglass braid 24in long
+425, High temperature fiberglass braid 25in long
+426, High temperature fiberglass braid 26in long
+427, High temperature fiberglass braid 27in long
+428, High temperature fiberglass braid 28in long
+429, High temperature fiberglass braid 29in long
+430, High temperature fiberglass braid 30in long
+431, High temperature fiberglass braid 31in long
+432, High temperature fiberglass braid 32in long
+433, High temperature fiberglass braid 33in long
+434, High temperature fiberglass braid 34in long
+435, High temperature fiberglass braid 35in long
+436, High temperature fiberglass braid 36in long
+437, High temperature fiberglass braid 37in long
+438, High temperature fiberglass braid 38in long
+439, High temperature fiberglass braid 39in long
+440, High temperature fiberglass braid 40in long
+441, High temperature fiberglass braid 41in long
+442, High temperature fiberglass braid 42in long
+443, High temperature fiberglass braid 43in long
+444, High temperature fiberglass braid 44in long
+445, High temperature fiberglass braid 45in long
+446, High temperature fiberglass braid 46in long
+447, High temperature fiberglass braid 47in long
+448, High temperature fiberglass braid 48in long
+449, High temperature fiberglass braid 49in long
+450, High temperature fiberglass braid 50in long
+451, High temperature fiberglass braid 51in long
+452, High temperature fiberglass braid 52in long
+453, High temperature fiberglass braid 53in long
+454, High temperature fiberglass braid 54in long
+455, High temperature fiberglass braid 55in long
+456, High temperature fiberglass braid 56in long
+457, High temperature fiberglass braid 57in long
+458, High temperature fiberglass braid 58in long
+459, High temperature fiberglass braid 59in long
+460, High temperature fiberglass braid 60in long
+461, High temperature fiberglass braid 61in long
+462, High temperature fiberglass braid 62in long
+463, High temperature fiberglass braid 63in long
+464, High temperature fiberglass braid 64in long
+465, High temperature fiberglass braid 65in long
+466, High temperature fiberglass braid 66in long
+467, High temperature fiberglass braid 67in long
+468, High temperature fiberglass braid 68in long
+469, High temperature fiberglass braid 69in long
+470, High temperature fiberglass braid 70in long
+471, High temperature fiberglass braid 71in long
+472, High temperature fiberglass braid 72in long
+473, High temperature fiberglass braid 73in long
+474, High temperature fiberglass braid 74in long
+475, High temperature fiberglass braid 75in long
+476, High temperature fiberglass braid 76in long
+477, High temperature fiberglass braid 77in long
+478, High temperature fiberglass braid 78in long
+479, High temperature fiberglass braid 79in long
+480, High temperature fiberglass braid 80in long
+481, High temperature fiberglass braid 81in long
+482, High temperature fiberglass braid 82in long
+483, High temperature fiberglass braid 83in long
+484, High temperature fiberglass braid 84in long
+485, High temperature fiberglass braid 85in long
+486, High temperature fiberglass braid 86in long
+487, High temperature fiberglass braid 87in long
+488, High temperature fiberglass braid 88in long
+489, High temperature fiberglass braid 89in long
+490, High temperature fiberglass braid 90in long
+491, High temperature fiberglass braid 91in long
+492, High temperature fiberglass braid 92in long
+493, High temperature fiberglass braid 93in long
+494, High temperature fiberglass braid 94in long
+495, High temperature fiberglass braid 95in long
+496, High temperature fiberglass braid 96in long
+497, High temperature fiberglass braid 97in long
+498, High temperature fiberglass braid 98in long
+499, High temperature fiberglass braid 99in long
+40, High temperature fiberglass braid 0in long
+41, High temperature fiberglass braid 1in long
+42, High temperature fiberglass braid 2in long
+43, High temperature fiberglass braid 3in long
+44, High temperature fiberglass braid 4in long
+45, High temperature fiberglass braid 5in long
+46, High temperature fiberglass braid 6in long
+47, High temperature fiberglass braid 7in long
+48, High temperature fiberglass braid 8in long
+49, High temperature fiberglass braid 9in long
+5100, Kapton (Standard for Cryogenic) 100in long
+5101, Kapton (Standard for Cryogenic) 101in long
+5102, Kapton (Standard for Cryogenic) 102in long
+5103, Kapton (Standard for Cryogenic) 103in long
+5104, Kapton (Standard for Cryogenic) 104in long
+5105, Kapton (Standard for Cryogenic) 105in long
+5106, Kapton (Standard for Cryogenic) 106in long
+5107, Kapton (Standard for Cryogenic) 107in long
+5108, Kapton (Standard for Cryogenic) 108in long
+5109, Kapton (Standard for Cryogenic) 109in long
+5110, Kapton (Standard for Cryogenic) 110in long
+5111, Kapton (Standard for Cryogenic) 111in long
+5112, Kapton (Standard for Cryogenic) 112in long
+5113, Kapton (Standard for Cryogenic) 113in long
+5114, Kapton (Standard for Cryogenic) 114in long
+5115, Kapton (Standard for Cryogenic) 115in long
+5116, Kapton (Standard for Cryogenic) 116in long
+5117, Kapton (Standard for Cryogenic) 117in long
+5118, Kapton (Standard for Cryogenic) 118in long
+5119, Kapton (Standard for Cryogenic) 119in long
+5120, Kapton (Standard for Cryogenic) 120in long
+5121, Kapton (Standard for Cryogenic) 121in long
+5122, Kapton (Standard for Cryogenic) 122in long
+5123, Kapton (Standard for Cryogenic) 123in long
+5124, Kapton (Standard for Cryogenic) 124in long
+5125, Kapton (Standard for Cryogenic) 125in long
+5126, Kapton (Standard for Cryogenic) 126in long
+5127, Kapton (Standard for Cryogenic) 127in long
+5128, Kapton (Standard for Cryogenic) 128in long
+5129, Kapton (Standard for Cryogenic) 129in long
+5130, Kapton (Standard for Cryogenic) 130in long
+5131, Kapton (Standard for Cryogenic) 131in long
+5132, Kapton (Standard for Cryogenic) 132in long
+5133, Kapton (Standard for Cryogenic) 133in long
+5134, Kapton (Standard for Cryogenic) 134in long
+5135, Kapton (Standard for Cryogenic) 135in long
+5136, Kapton (Standard for Cryogenic) 136in long
+5137, Kapton (Standard for Cryogenic) 137in long
+5138, Kapton (Standard for Cryogenic) 138in long
+5139, Kapton (Standard for Cryogenic) 139in long
+5140, Kapton (Standard for Cryogenic) 140in long
+5141, Kapton (Standard for Cryogenic) 141in long
+5142, Kapton (Standard for Cryogenic) 142in long
+5143, Kapton (Standard for Cryogenic) 143in long
+5144, Kapton (Standard for Cryogenic) 144in long
+5145, Kapton (Standard for Cryogenic) 145in long
+5146, Kapton (Standard for Cryogenic) 146in long
+5147, Kapton (Standard for Cryogenic) 147in long
+5148, Kapton (Standard for Cryogenic) 148in long
+5149, Kapton (Standard for Cryogenic) 149in long
+5150, Kapton (Standard for Cryogenic) 150in long
+5151, Kapton (Standard for Cryogenic) 151in long
+5152, Kapton (Standard for Cryogenic) 152in long
+5153, Kapton (Standard for Cryogenic) 153in long
+5154, Kapton (Standard for Cryogenic) 154in long
+5155, Kapton (Standard for Cryogenic) 155in long
+5156, Kapton (Standard for Cryogenic) 156in long
+5157, Kapton (Standard for Cryogenic) 157in long
+5158, Kapton (Standard for Cryogenic) 158in long
+5159, Kapton (Standard for Cryogenic) 159in long
+5160, Kapton (Standard for Cryogenic) 160in long
+5161, Kapton (Standard for Cryogenic) 161in long
+5162, Kapton (Standard for Cryogenic) 162in long
+5163, Kapton (Standard for Cryogenic) 163in long
+5164, Kapton (Standard for Cryogenic) 164in long
+5165, Kapton (Standard for Cryogenic) 165in long
+5166, Kapton (Standard for Cryogenic) 166in long
+5167, Kapton (Standard for Cryogenic) 167in long
+5168, Kapton (Standard for Cryogenic) 168in long
+5169, Kapton (Standard for Cryogenic) 169in long
+5170, Kapton (Standard for Cryogenic) 170in long
+5171, Kapton (Standard for Cryogenic) 171in long
+5172, Kapton (Standard for Cryogenic) 172in long
+5173, Kapton (Standard for Cryogenic) 173in long
+5174, Kapton (Standard for Cryogenic) 174in long
+5175, Kapton (Standard for Cryogenic) 175in long
+5176, Kapton (Standard for Cryogenic) 176in long
+5177, Kapton (Standard for Cryogenic) 177in long
+5178, Kapton (Standard for Cryogenic) 178in long
+5179, Kapton (Standard for Cryogenic) 179in long
+5180, Kapton (Standard for Cryogenic) 180in long
+5181, Kapton (Standard for Cryogenic) 181in long
+5182, Kapton (Standard for Cryogenic) 182in long
+5183, Kapton (Standard for Cryogenic) 183in long
+5184, Kapton (Standard for Cryogenic) 184in long
+5185, Kapton (Standard for Cryogenic) 185in long
+5186, Kapton (Standard for Cryogenic) 186in long
+5187, Kapton (Standard for Cryogenic) 187in long
+5188, Kapton (Standard for Cryogenic) 188in long
+5189, Kapton (Standard for Cryogenic) 189in long
+5190, Kapton (Standard for Cryogenic) 190in long
+5191, Kapton (Standard for Cryogenic) 191in long
+5192, Kapton (Standard for Cryogenic) 192in long
+5193, Kapton (Standard for Cryogenic) 193in long
+5194, Kapton (Standard for Cryogenic) 194in long
+5195, Kapton (Standard for Cryogenic) 195in long
+5196, Kapton (Standard for Cryogenic) 196in long
+5197, Kapton (Standard for Cryogenic) 197in long
+5198, Kapton (Standard for Cryogenic) 198in long
+5199, Kapton (Standard for Cryogenic) 199in long
+5200, Kapton (Standard for Cryogenic) 200in long
+5201, Kapton (Standard for Cryogenic) 201in long
+5202, Kapton (Standard for Cryogenic) 202in long
+5203, Kapton (Standard for Cryogenic) 203in long
+5204, Kapton (Standard for Cryogenic) 204in long
+5205, Kapton (Standard for Cryogenic) 205in long
+5206, Kapton (Standard for Cryogenic) 206in long
+5207, Kapton (Standard for Cryogenic) 207in long
+5208, Kapton (Standard for Cryogenic) 208in long
+5209, Kapton (Standard for Cryogenic) 209in long
+5210, Kapton (Standard for Cryogenic) 210in long
+5211, Kapton (Standard for Cryogenic) 211in long
+5212, Kapton (Standard for Cryogenic) 212in long
+5213, Kapton (Standard for Cryogenic) 213in long
+5214, Kapton (Standard for Cryogenic) 214in long
+5215, Kapton (Standard for Cryogenic) 215in long
+5216, Kapton (Standard for Cryogenic) 216in long
+5217, Kapton (Standard for Cryogenic) 217in long
+5218, Kapton (Standard for Cryogenic) 218in long
+5219, Kapton (Standard for Cryogenic) 219in long
+5220, Kapton (Standard for Cryogenic) 220in long
+5221, Kapton (Standard for Cryogenic) 221in long
+5222, Kapton (Standard for Cryogenic) 222in long
+5223, Kapton (Standard for Cryogenic) 223in long
+5224, Kapton (Standard for Cryogenic) 224in long
+5225, Kapton (Standard for Cryogenic) 225in long
+5226, Kapton (Standard for Cryogenic) 226in long
+5227, Kapton (Standard for Cryogenic) 227in long
+5228, Kapton (Standard for Cryogenic) 228in long
+5229, Kapton (Standard for Cryogenic) 229in long
+5230, Kapton (Standard for Cryogenic) 230in long
+5231, Kapton (Standard for Cryogenic) 231in long
+5232, Kapton (Standard for Cryogenic) 232in long
+5233, Kapton (Standard for Cryogenic) 233in long
+5234, Kapton (Standard for Cryogenic) 234in long
+5235, Kapton (Standard for Cryogenic) 235in long
+5236, Kapton (Standard for Cryogenic) 236in long
+5237, Kapton (Standard for Cryogenic) 237in long
+5238, Kapton (Standard for Cryogenic) 238in long
+5239, Kapton (Standard for Cryogenic) 239in long
+5240, Kapton (Standard for Cryogenic) 240in long
+5241, Kapton (Standard for Cryogenic) 241in long
+5242, Kapton (Standard for Cryogenic) 242in long
+5243, Kapton (Standard for Cryogenic) 243in long
+5244, Kapton (Standard for Cryogenic) 244in long
+5245, Kapton (Standard for Cryogenic) 245in long
+5246, Kapton (Standard for Cryogenic) 246in long
+5247, Kapton (Standard for Cryogenic) 247in long
+5248, Kapton (Standard for Cryogenic) 248in long
+5249, Kapton (Standard for Cryogenic) 249in long
+5250, Kapton (Standard for Cryogenic) 250in long
+5251, Kapton (Standard for Cryogenic) 251in long
+5252, Kapton (Standard for Cryogenic) 252in long
+5253, Kapton (Standard for Cryogenic) 253in long
+5254, Kapton (Standard for Cryogenic) 254in long
+5255, Kapton (Standard for Cryogenic) 255in long
+5256, Kapton (Standard for Cryogenic) 256in long
+5257, Kapton (Standard for Cryogenic) 257in long
+5258, Kapton (Standard for Cryogenic) 258in long
+5259, Kapton (Standard for Cryogenic) 259in long
+5260, Kapton (Standard for Cryogenic) 260in long
+5261, Kapton (Standard for Cryogenic) 261in long
+5262, Kapton (Standard for Cryogenic) 262in long
+5263, Kapton (Standard for Cryogenic) 263in long
+5264, Kapton (Standard for Cryogenic) 264in long
+5265, Kapton (Standard for Cryogenic) 265in long
+5266, Kapton (Standard for Cryogenic) 266in long
+5267, Kapton (Standard for Cryogenic) 267in long
+5268, Kapton (Standard for Cryogenic) 268in long
+5269, Kapton (Standard for Cryogenic) 269in long
+5270, Kapton (Standard for Cryogenic) 270in long
+5271, Kapton (Standard for Cryogenic) 271in long
+5272, Kapton (Standard for Cryogenic) 272in long
+5273, Kapton (Standard for Cryogenic) 273in long
+5274, Kapton (Standard for Cryogenic) 274in long
+5275, Kapton (Standard for Cryogenic) 275in long
+5276, Kapton (Standard for Cryogenic) 276in long
+5277, Kapton (Standard for Cryogenic) 277in long
+5278, Kapton (Standard for Cryogenic) 278in long
+5279, Kapton (Standard for Cryogenic) 279in long
+5280, Kapton (Standard for Cryogenic) 280in long
+5281, Kapton (Standard for Cryogenic) 281in long
+5282, Kapton (Standard for Cryogenic) 282in long
+5283, Kapton (Standard for Cryogenic) 283in long
+5284, Kapton (Standard for Cryogenic) 284in long
+5285, Kapton (Standard for Cryogenic) 285in long
+5286, Kapton (Standard for Cryogenic) 286in long
+5287, Kapton (Standard for Cryogenic) 287in long
+5288, Kapton (Standard for Cryogenic) 288in long
+5289, Kapton (Standard for Cryogenic) 289in long
+5290, Kapton (Standard for Cryogenic) 290in long
+5291, Kapton (Standard for Cryogenic) 291in long
+5292, Kapton (Standard for Cryogenic) 292in long
+5293, Kapton (Standard for Cryogenic) 293in long
+5294, Kapton (Standard for Cryogenic) 294in long
+5295, Kapton (Standard for Cryogenic) 295in long
+5296, Kapton (Standard for Cryogenic) 296in long
+5297, Kapton (Standard for Cryogenic) 297in long
+5298, Kapton (Standard for Cryogenic) 298in long
+5299, Kapton (Standard for Cryogenic) 299in long
+5300, Kapton (Standard for Cryogenic) 300in long
+5301, Kapton (Standard for Cryogenic) 301in long
+5302, Kapton (Standard for Cryogenic) 302in long
+5303, Kapton (Standard for Cryogenic) 303in long
+5304, Kapton (Standard for Cryogenic) 304in long
+5305, Kapton (Standard for Cryogenic) 305in long
+5306, Kapton (Standard for Cryogenic) 306in long
+5307, Kapton (Standard for Cryogenic) 307in long
+5308, Kapton (Standard for Cryogenic) 308in long
+5309, Kapton (Standard for Cryogenic) 309in long
+5310, Kapton (Standard for Cryogenic) 310in long
+5311, Kapton (Standard for Cryogenic) 311in long
+5312, Kapton (Standard for Cryogenic) 312in long
+5313, Kapton (Standard for Cryogenic) 313in long
+5314, Kapton (Standard for Cryogenic) 314in long
+5315, Kapton (Standard for Cryogenic) 315in long
+5316, Kapton (Standard for Cryogenic) 316in long
+5317, Kapton (Standard for Cryogenic) 317in long
+5318, Kapton (Standard for Cryogenic) 318in long
+5319, Kapton (Standard for Cryogenic) 319in long
+5320, Kapton (Standard for Cryogenic) 320in long
+5321, Kapton (Standard for Cryogenic) 321in long
+5322, Kapton (Standard for Cryogenic) 322in long
+5323, Kapton (Standard for Cryogenic) 323in long
+5324, Kapton (Standard for Cryogenic) 324in long
+5325, Kapton (Standard for Cryogenic) 325in long
+5326, Kapton (Standard for Cryogenic) 326in long
+5327, Kapton (Standard for Cryogenic) 327in long
+5328, Kapton (Standard for Cryogenic) 328in long
+5329, Kapton (Standard for Cryogenic) 329in long
+5330, Kapton (Standard for Cryogenic) 330in long
+5331, Kapton (Standard for Cryogenic) 331in long
+5332, Kapton (Standard for Cryogenic) 332in long
+5333, Kapton (Standard for Cryogenic) 333in long
+5334, Kapton (Standard for Cryogenic) 334in long
+5335, Kapton (Standard for Cryogenic) 335in long
+5336, Kapton (Standard for Cryogenic) 336in long
+5337, Kapton (Standard for Cryogenic) 337in long
+5338, Kapton (Standard for Cryogenic) 338in long
+5339, Kapton (Standard for Cryogenic) 339in long
+5340, Kapton (Standard for Cryogenic) 340in long
+5341, Kapton (Standard for Cryogenic) 341in long
+5342, Kapton (Standard for Cryogenic) 342in long
+5343, Kapton (Standard for Cryogenic) 343in long
+5344, Kapton (Standard for Cryogenic) 344in long
+5345, Kapton (Standard for Cryogenic) 345in long
+5346, Kapton (Standard for Cryogenic) 346in long
+5347, Kapton (Standard for Cryogenic) 347in long
+5348, Kapton (Standard for Cryogenic) 348in long
+5349, Kapton (Standard for Cryogenic) 349in long
+5350, Kapton (Standard for Cryogenic) 350in long
+5351, Kapton (Standard for Cryogenic) 351in long
+5352, Kapton (Standard for Cryogenic) 352in long
+5353, Kapton (Standard for Cryogenic) 353in long
+5354, Kapton (Standard for Cryogenic) 354in long
+5355, Kapton (Standard for Cryogenic) 355in long
+5356, Kapton (Standard for Cryogenic) 356in long
+5357, Kapton (Standard for Cryogenic) 357in long
+5358, Kapton (Standard for Cryogenic) 358in long
+5359, Kapton (Standard for Cryogenic) 359in long
+5360, Kapton (Standard for Cryogenic) 360in long
+5361, Kapton (Standard for Cryogenic) 361in long
+5362, Kapton (Standard for Cryogenic) 362in long
+5363, Kapton (Standard for Cryogenic) 363in long
+5364, Kapton (Standard for Cryogenic) 364in long
+5365, Kapton (Standard for Cryogenic) 365in long
+5366, Kapton (Standard for Cryogenic) 366in long
+5367, Kapton (Standard for Cryogenic) 367in long
+5368, Kapton (Standard for Cryogenic) 368in long
+5369, Kapton (Standard for Cryogenic) 369in long
+5370, Kapton (Standard for Cryogenic) 370in long
+5371, Kapton (Standard for Cryogenic) 371in long
+5372, Kapton (Standard for Cryogenic) 372in long
+5373, Kapton (Standard for Cryogenic) 373in long
+5374, Kapton (Standard for Cryogenic) 374in long
+5375, Kapton (Standard for Cryogenic) 375in long
+5376, Kapton (Standard for Cryogenic) 376in long
+5377, Kapton (Standard for Cryogenic) 377in long
+5378, Kapton (Standard for Cryogenic) 378in long
+5379, Kapton (Standard for Cryogenic) 379in long
+5380, Kapton (Standard for Cryogenic) 380in long
+5381, Kapton (Standard for Cryogenic) 381in long
+5382, Kapton (Standard for Cryogenic) 382in long
+5383, Kapton (Standard for Cryogenic) 383in long
+5384, Kapton (Standard for Cryogenic) 384in long
+5385, Kapton (Standard for Cryogenic) 385in long
+5386, Kapton (Standard for Cryogenic) 386in long
+5387, Kapton (Standard for Cryogenic) 387in long
+5388, Kapton (Standard for Cryogenic) 388in long
+5389, Kapton (Standard for Cryogenic) 389in long
+5390, Kapton (Standard for Cryogenic) 390in long
+5391, Kapton (Standard for Cryogenic) 391in long
+5392, Kapton (Standard for Cryogenic) 392in long
+5393, Kapton (Standard for Cryogenic) 393in long
+5394, Kapton (Standard for Cryogenic) 394in long
+5395, Kapton (Standard for Cryogenic) 395in long
+5396, Kapton (Standard for Cryogenic) 396in long
+5397, Kapton (Standard for Cryogenic) 397in long
+5398, Kapton (Standard for Cryogenic) 398in long
+5399, Kapton (Standard for Cryogenic) 399in long
+510, Kapton (Standard for Cryogenic) 10in long
+511, Kapton (Standard for Cryogenic) 11in long
+512, Kapton (Standard for Cryogenic) 12in long
+513, Kapton (Standard for Cryogenic) 13in long
+514, Kapton (Standard for Cryogenic) 14in long
+515, Kapton (Standard for Cryogenic) 15in long
+516, Kapton (Standard for Cryogenic) 16in long
+517, Kapton (Standard for Cryogenic) 17in long
+518, Kapton (Standard for Cryogenic) 18in long
+519, Kapton (Standard for Cryogenic) 19in long
+520, Kapton (Standard for Cryogenic) 20in long
+521, Kapton (Standard for Cryogenic) 21in long
+522, Kapton (Standard for Cryogenic) 22in long
+523, Kapton (Standard for Cryogenic) 23in long
+524, Kapton (Standard for Cryogenic) 24in long
+525, Kapton (Standard for Cryogenic) 25in long
+526, Kapton (Standard for Cryogenic) 26in long
+527, Kapton (Standard for Cryogenic) 27in long
+528, Kapton (Standard for Cryogenic) 28in long
+529, Kapton (Standard for Cryogenic) 29in long
+530, Kapton (Standard for Cryogenic) 30in long
+531, Kapton (Standard for Cryogenic) 31in long
+532, Kapton (Standard for Cryogenic) 32in long
+533, Kapton (Standard for Cryogenic) 33in long
+534, Kapton (Standard for Cryogenic) 34in long
+535, Kapton (Standard for Cryogenic) 35in long
+536, Kapton (Standard for Cryogenic) 36in long
+537, Kapton (Standard for Cryogenic) 37in long
+538, Kapton (Standard for Cryogenic) 38in long
+539, Kapton (Standard for Cryogenic) 39in long
+540, Kapton (Standard for Cryogenic) 40in long
+541, Kapton (Standard for Cryogenic) 41in long
+542, Kapton (Standard for Cryogenic) 42in long
+543, Kapton (Standard for Cryogenic) 43in long
+544, Kapton (Standard for Cryogenic) 44in long
+545, Kapton (Standard for Cryogenic) 45in long
+546, Kapton (Standard for Cryogenic) 46in long
+547, Kapton (Standard for Cryogenic) 47in long
+548, Kapton (Standard for Cryogenic) 48in long
+549, Kapton (Standard for Cryogenic) 49in long
+550, Kapton (Standard for Cryogenic) 50in long
+551, Kapton (Standard for Cryogenic) 51in long
+552, Kapton (Standard for Cryogenic) 52in long
+553, Kapton (Standard for Cryogenic) 53in long
+554, Kapton (Standard for Cryogenic) 54in long
+555, Kapton (Standard for Cryogenic) 55in long
+556, Kapton (Standard for Cryogenic) 56in long
+557, Kapton (Standard for Cryogenic) 57in long
+558, Kapton (Standard for Cryogenic) 58in long
+559, Kapton (Standard for Cryogenic) 59in long
+560, Kapton (Standard for Cryogenic) 60in long
+561, Kapton (Standard for Cryogenic) 61in long
+562, Kapton (Standard for Cryogenic) 62in long
+563, Kapton (Standard for Cryogenic) 63in long
+564, Kapton (Standard for Cryogenic) 64in long
+565, Kapton (Standard for Cryogenic) 65in long
+566, Kapton (Standard for Cryogenic) 66in long
+567, Kapton (Standard for Cryogenic) 67in long
+568, Kapton (Standard for Cryogenic) 68in long
+569, Kapton (Standard for Cryogenic) 69in long
+570, Kapton (Standard for Cryogenic) 70in long
+571, Kapton (Standard for Cryogenic) 71in long
+572, Kapton (Standard for Cryogenic) 72in long
+573, Kapton (Standard for Cryogenic) 73in long
+574, Kapton (Standard for Cryogenic) 74in long
+575, Kapton (Standard for Cryogenic) 75in long
+576, Kapton (Standard for Cryogenic) 76in long
+577, Kapton (Standard for Cryogenic) 77in long
+578, Kapton (Standard for Cryogenic) 78in long
+579, Kapton (Standard for Cryogenic) 79in long
+580, Kapton (Standard for Cryogenic) 80in long
+581, Kapton (Standard for Cryogenic) 81in long
+582, Kapton (Standard for Cryogenic) 82in long
+583, Kapton (Standard for Cryogenic) 83in long
+584, Kapton (Standard for Cryogenic) 84in long
+585, Kapton (Standard for Cryogenic) 85in long
+586, Kapton (Standard for Cryogenic) 86in long
+587, Kapton (Standard for Cryogenic) 87in long
+588, Kapton (Standard for Cryogenic) 88in long
+589, Kapton (Standard for Cryogenic) 89in long
+590, Kapton (Standard for Cryogenic) 90in long
+591, Kapton (Standard for Cryogenic) 91in long
+592, Kapton (Standard for Cryogenic) 92in long
+593, Kapton (Standard for Cryogenic) 93in long
+594, Kapton (Standard for Cryogenic) 94in long
+595, Kapton (Standard for Cryogenic) 95in long
+596, Kapton (Standard for Cryogenic) 96in long
+597, Kapton (Standard for Cryogenic) 97in long
+598, Kapton (Standard for Cryogenic) 98in long
+599, Kapton (Standard for Cryogenic) 99in long
+50, Kapton (Standard for Cryogenic) 0in long
+51, Kapton (Standard for Cryogenic) 1in long
+52, Kapton (Standard for Cryogenic) 2in long
+53, Kapton (Standard for Cryogenic) 3in long
+54, Kapton (Standard for Cryogenic) 4in long
+55, Kapton (Standard for Cryogenic) 5in long
+56, Kapton (Standard for Cryogenic) 6in long
+57, Kapton (Standard for Cryogenic) 7in long
+58, Kapton (Standard for Cryogenic) 8in long
+59, Kapton (Standard for Cryogenic) 9in long
+X100, Other - specify 100in long
+X101, Other - specify 101in long
+X102, Other - specify 102in long
+X103, Other - specify 103in long
+X104, Other - specify 104in long
+X105, Other - specify 105in long
+X106, Other - specify 106in long
+X107, Other - specify 107in long
+X108, Other - specify 108in long
+X109, Other - specify 109in long
+X110, Other - specify 110in long
+X111, Other - specify 111in long
+X112, Other - specify 112in long
+X113, Other - specify 113in long
+X114, Other - specify 114in long
+X115, Other - specify 115in long
+X116, Other - specify 116in long
+X117, Other - specify 117in long
+X118, Other - specify 118in long
+X119, Other - specify 119in long
+X120, Other - specify 120in long
+X121, Other - specify 121in long
+X122, Other - specify 122in long
+X123, Other - specify 123in long
+X124, Other - specify 124in long
+X125, Other - specify 125in long
+X126, Other - specify 126in long
+X127, Other - specify 127in long
+X128, Other - specify 128in long
+X129, Other - specify 129in long
+X130, Other - specify 130in long
+X131, Other - specify 131in long
+X132, Other - specify 132in long
+X133, Other - specify 133in long
+X134, Other - specify 134in long
+X135, Other - specify 135in long
+X136, Other - specify 136in long
+X137, Other - specify 137in long
+X138, Other - specify 138in long
+X139, Other - specify 139in long
+X140, Other - specify 140in long
+X141, Other - specify 141in long
+X142, Other - specify 142in long
+X143, Other - specify 143in long
+X144, Other - specify 144in long
+X145, Other - specify 145in long
+X146, Other - specify 146in long
+X147, Other - specify 147in long
+X148, Other - specify 148in long
+X149, Other - specify 149in long
+X150, Other - specify 150in long
+X151, Other - specify 151in long
+X152, Other - specify 152in long
+X153, Other - specify 153in long
+X154, Other - specify 154in long
+X155, Other - specify 155in long
+X156, Other - specify 156in long
+X157, Other - specify 157in long
+X158, Other - specify 158in long
+X159, Other - specify 159in long
+X160, Other - specify 160in long
+X161, Other - specify 161in long
+X162, Other - specify 162in long
+X163, Other - specify 163in long
+X164, Other - specify 164in long
+X165, Other - specify 165in long
+X166, Other - specify 166in long
+X167, Other - specify 167in long
+X168, Other - specify 168in long
+X169, Other - specify 169in long
+X170, Other - specify 170in long
+X171, Other - specify 171in long
+X172, Other - specify 172in long
+X173, Other - specify 173in long
+X174, Other - specify 174in long
+X175, Other - specify 175in long
+X176, Other - specify 176in long
+X177, Other - specify 177in long
+X178, Other - specify 178in long
+X179, Other - specify 179in long
+X180, Other - specify 180in long
+X181, Other - specify 181in long
+X182, Other - specify 182in long
+X183, Other - specify 183in long
+X184, Other - specify 184in long
+X185, Other - specify 185in long
+X186, Other - specify 186in long
+X187, Other - specify 187in long
+X188, Other - specify 188in long
+X189, Other - specify 189in long
+X190, Other - specify 190in long
+X191, Other - specify 191in long
+X192, Other - specify 192in long
+X193, Other - specify 193in long
+X194, Other - specify 194in long
+X195, Other - specify 195in long
+X196, Other - specify 196in long
+X197, Other - specify 197in long
+X198, Other - specify 198in long
+X199, Other - specify 199in long
+X200, Other - specify 200in long
+X201, Other - specify 201in long
+X202, Other - specify 202in long
+X203, Other - specify 203in long
+X204, Other - specify 204in long
+X205, Other - specify 205in long
+X206, Other - specify 206in long
+X207, Other - specify 207in long
+X208, Other - specify 208in long
+X209, Other - specify 209in long
+X210, Other - specify 210in long
+X211, Other - specify 211in long
+X212, Other - specify 212in long
+X213, Other - specify 213in long
+X214, Other - specify 214in long
+X215, Other - specify 215in long
+X216, Other - specify 216in long
+X217, Other - specify 217in long
+X218, Other - specify 218in long
+X219, Other - specify 219in long
+X220, Other - specify 220in long
+X221, Other - specify 221in long
+X222, Other - specify 222in long
+X223, Other - specify 223in long
+X224, Other - specify 224in long
+X225, Other - specify 225in long
+X226, Other - specify 226in long
+X227, Other - specify 227in long
+X228, Other - specify 228in long
+X229, Other - specify 229in long
+X230, Other - specify 230in long
+X231, Other - specify 231in long
+X232, Other - specify 232in long
+X233, Other - specify 233in long
+X234, Other - specify 234in long
+X235, Other - specify 235in long
+X236, Other - specify 236in long
+X237, Other - specify 237in long
+X238, Other - specify 238in long
+X239, Other - specify 239in long
+X240, Other - specify 240in long
+X241, Other - specify 241in long
+X242, Other - specify 242in long
+X243, Other - specify 243in long
+X244, Other - specify 244in long
+X245, Other - specify 245in long
+X246, Other - specify 246in long
+X247, Other - specify 247in long
+X248, Other - specify 248in long
+X249, Other - specify 249in long
+X250, Other - specify 250in long
+X251, Other - specify 251in long
+X252, Other - specify 252in long
+X253, Other - specify 253in long
+X254, Other - specify 254in long
+X255, Other - specify 255in long
+X256, Other - specify 256in long
+X257, Other - specify 257in long
+X258, Other - specify 258in long
+X259, Other - specify 259in long
+X260, Other - specify 260in long
+X261, Other - specify 261in long
+X262, Other - specify 262in long
+X263, Other - specify 263in long
+X264, Other - specify 264in long
+X265, Other - specify 265in long
+X266, Other - specify 266in long
+X267, Other - specify 267in long
+X268, Other - specify 268in long
+X269, Other - specify 269in long
+X270, Other - specify 270in long
+X271, Other - specify 271in long
+X272, Other - specify 272in long
+X273, Other - specify 273in long
+X274, Other - specify 274in long
+X275, Other - specify 275in long
+X276, Other - specify 276in long
+X277, Other - specify 277in long
+X278, Other - specify 278in long
+X279, Other - specify 279in long
+X280, Other - specify 280in long
+X281, Other - specify 281in long
+X282, Other - specify 282in long
+X283, Other - specify 283in long
+X284, Other - specify 284in long
+X285, Other - specify 285in long
+X286, Other - specify 286in long
+X287, Other - specify 287in long
+X288, Other - specify 288in long
+X289, Other - specify 289in long
+X290, Other - specify 290in long
+X291, Other - specify 291in long
+X292, Other - specify 292in long
+X293, Other - specify 293in long
+X294, Other - specify 294in long
+X295, Other - specify 295in long
+X296, Other - specify 296in long
+X297, Other - specify 297in long
+X298, Other - specify 298in long
+X299, Other - specify 299in long
+X300, Other - specify 300in long
+X301, Other - specify 301in long
+X302, Other - specify 302in long
+X303, Other - specify 303in long
+X304, Other - specify 304in long
+X305, Other - specify 305in long
+X306, Other - specify 306in long
+X307, Other - specify 307in long
+X308, Other - specify 308in long
+X309, Other - specify 309in long
+X310, Other - specify 310in long
+X311, Other - specify 311in long
+X312, Other - specify 312in long
+X313, Other - specify 313in long
+X314, Other - specify 314in long
+X315, Other - specify 315in long
+X316, Other - specify 316in long
+X317, Other - specify 317in long
+X318, Other - specify 318in long
+X319, Other - specify 319in long
+X320, Other - specify 320in long
+X321, Other - specify 321in long
+X322, Other - specify 322in long
+X323, Other - specify 323in long
+X324, Other - specify 324in long
+X325, Other - specify 325in long
+X326, Other - specify 326in long
+X327, Other - specify 327in long
+X328, Other - specify 328in long
+X329, Other - specify 329in long
+X330, Other - specify 330in long
+X331, Other - specify 331in long
+X332, Other - specify 332in long
+X333, Other - specify 333in long
+X334, Other - specify 334in long
+X335, Other - specify 335in long
+X336, Other - specify 336in long
+X337, Other - specify 337in long
+X338, Other - specify 338in long
+X339, Other - specify 339in long
+X340, Other - specify 340in long
+X341, Other - specify 341in long
+X342, Other - specify 342in long
+X343, Other - specify 343in long
+X344, Other - specify 344in long
+X345, Other - specify 345in long
+X346, Other - specify 346in long
+X347, Other - specify 347in long
+X348, Other - specify 348in long
+X349, Other - specify 349in long
+X350, Other - specify 350in long
+X351, Other - specify 351in long
+X352, Other - specify 352in long
+X353, Other - specify 353in long
+X354, Other - specify 354in long
+X355, Other - specify 355in long
+X356, Other - specify 356in long
+X357, Other - specify 357in long
+X358, Other - specify 358in long
+X359, Other - specify 359in long
+X360, Other - specify 360in long
+X361, Other - specify 361in long
+X362, Other - specify 362in long
+X363, Other - specify 363in long
+X364, Other - specify 364in long
+X365, Other - specify 365in long
+X366, Other - specify 366in long
+X367, Other - specify 367in long
+X368, Other - specify 368in long
+X369, Other - specify 369in long
+X370, Other - specify 370in long
+X371, Other - specify 371in long
+X372, Other - specify 372in long
+X373, Other - specify 373in long
+X374, Other - specify 374in long
+X375, Other - specify 375in long
+X376, Other - specify 376in long
+X377, Other - specify 377in long
+X378, Other - specify 378in long
+X379, Other - specify 379in long
+X380, Other - specify 380in long
+X381, Other - specify 381in long
+X382, Other - specify 382in long
+X383, Other - specify 383in long
+X384, Other - specify 384in long
+X385, Other - specify 385in long
+X386, Other - specify 386in long
+X387, Other - specify 387in long
+X388, Other - specify 388in long
+X389, Other - specify 389in long
+X390, Other - specify 390in long
+X391, Other - specify 391in long
+X392, Other - specify 392in long
+X393, Other - specify 393in long
+X394, Other - specify 394in long
+X395, Other - specify 395in long
+X396, Other - specify 396in long
+X397, Other - specify 397in long
+X398, Other - specify 398in long
+X399, Other - specify 399in long
+X10, Other - specify 10in long
+X11, Other - specify 11in long
+X12, Other - specify 12in long
+X13, Other - specify 13in long
+X14, Other - specify 14in long
+X15, Other - specify 15in long
+X16, Other - specify 16in long
+X17, Other - specify 17in long
+X18, Other - specify 18in long
+X19, Other - specify 19in long
+X20, Other - specify 20in long
+X21, Other - specify 21in long
+X22, Other - specify 22in long
+X23, Other - specify 23in long
+X24, Other - specify 24in long
+X25, Other - specify 25in long
+X26, Other - specify 26in long
+X27, Other - specify 27in long
+X28, Other - specify 28in long
+X29, Other - specify 29in long
+X30, Other - specify 30in long
+X31, Other - specify 31in long
+X32, Other - specify 32in long
+X33, Other - specify 33in long
+X34, Other - specify 34in long
+X35, Other - specify 35in long
+X36, Other - specify 36in long
+X37, Other - specify 37in long
+X38, Other - specify 38in long
+X39, Other - specify 39in long
+X40, Other - specify 40in long
+X41, Other - specify 41in long
+X42, Other - specify 42in long
+X43, Other - specify 43in long
+X44, Other - specify 44in long
+X45, Other - specify 45in long
+X46, Other - specify 46in long
+X47, Other - specify 47in long
+X48, Other - specify 48in long
+X49, Other - specify 49in long
+X50, Other - specify 50in long
+X51, Other - specify 51in long
+X52, Other - specify 52in long
+X53, Other - specify 53in long
+X54, Other - specify 54in long
+X55, Other - specify 55in long
+X56, Other - specify 56in long
+X57, Other - specify 57in long
+X58, Other - specify 58in long
+X59, Other - specify 59in long
+X60, Other - specify 60in long
+X61, Other - specify 61in long
+X62, Other - specify 62in long
+X63, Other - specify 63in long
+X64, Other - specify 64in long
+X65, Other - specify 65in long
+X66, Other - specify 66in long
+X67, Other - specify 67in long
+X68, Other - specify 68in long
+X69, Other - specify 69in long
+X70, Other - specify 70in long
+X71, Other - specify 71in long
+X72, Other - specify 72in long
+X73, Other - specify 73in long
+X74, Other - specify 74in long
+X75, Other - specify 75in long
+X76, Other - specify 76in long
+X77, Other - specify 77in long
+X78, Other - specify 78in long
+X79, Other - specify 79in long
+X80, Other - specify 80in long
+X81, Other - specify 81in long
+X82, Other - specify 82in long
+X83, Other - specify 83in long
+X84, Other - specify 84in long
+X85, Other - specify 85in long
+X86, Other - specify 86in long
+X87, Other - specify 87in long
+X88, Other - specify 88in long
+X89, Other - specify 89in long
+X90, Other - specify 90in long
+X91, Other - specify 91in long
+X92, Other - specify 92in long
+X93, Other - specify 93in long
+X94, Other - specify 94in long
+X95, Other - specify 95in long
+X96, Other - specify 96in long
+X97, Other - specify 97in long
+X98, Other - specify 98in long
+X99, Other - specify 99in long
+X0, Other - specify 0in long
+X1, Other - specify 1in long
+X2, Other - specify 2in long
+X3, Other - specify 3in long
+X4, Other - specify 4in long
+X5, Other - specify 5in long
+X6, Other - specify 6in long
+X7, Other - specify 7in long
+X8, Other - specify 8in long
+X9, Other - specify 9in long
+Z, n/a
+Amor or Heat Shrink/Jacket
+A, SS flex armor (Standard)
+B, SS flex armor Teflon coated white
+C, SS flex armor Teflon coated black
+D, 1/8" ID SS flex armor
+F, SS overbraid
+G, Heat shrink/sleeving
+H, Jacket to match primary insulation
+J, Aluminum Mylar shielded and jacketed to match primary insulation
+Z, N/A
+X, Other specify
+Wire Configuration
+T, 2 Wire
+Y, 3 Wire
+W, 4 Wire
+Type of Transition
+H, Heat shrink
+S, Size on size
+T2, 3/8" OD high humidity 
+T3, 3/8 in OD high temperature
+T, 3/8" OD
+R2, 1/4" OD high humidity
+R3, 1/4" OD high temperature
+R, 1/4" OD
+Q, Cuttable (Std construction only) [3-12]
+X, Other - specify
+Z, No transition
+Cold End Termination
+B, Miniature plug
+C, Standard plug
+F, High temp plug (< 800°F)
+WM, Microphone style plug
+D, Miniature jack
+E, Standard jack
+G, High temp jack (< 800°F)
+WF, Microphone style jack
+V, Water resistant plug 
+Y, M12 Water resistant plug
+I, Aluminum - NEMA 4X - FM - CSA - IP68 (6IA)
+J, 316 SS - NEMA 4X - FM - CSA - IP68 (6ISS)
+P, Aluminum - NEMA 4X - FM - CSA - ATEX - IECEx - IP68 (6IAIEC)
+U, 316 SS - NEMA 4X - FM - ATEX - IECEx - IP68 (6ISSATEX)
+L, Aluminum w/ hinged cover (6L)
+M, Aluminum w/ screw cover & chain (6M)
+N, Cast Iron w/ screw cover (6N)
+Q, Black plastic (6Q)
+R, Aluminum high dome w/ hinged cover (6R)
+SS, 316 SS w/ screw cover & chain (6SS)
+8H, Isolated transmitter
+8N, Non-isolated transmitter
+8I, Hart Protocol
+8E, Intrinsically safe
+8D, HART / Intrinsically safe 
+8M, Integral transmitter (see page 3-5)
+8PS, Indicating with SS housing
+8PA, Indicating with aluminum housing
+A, Bare ends
+X, Other - specify
+Options
+1, Stainless steel tag
+2, Plastic tag
+3, Paper tag
+4, Laser etch on probe
+5, Calibrate at specified point(s) Corrections data provided for each point.
+6C, Premium calibration report. Callendar-Van Dusen coefficients will be provided for all
+6, Premium calibration report. Corrections data will be provided for all
+7, CE marking [page XV]
+8, Guide 17025 calibration
+M, MTR (Sheath - tubing - tip)
+T, Calibration tag
+END

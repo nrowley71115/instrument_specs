@@ -1,0 +1,255 @@
+Model
+3051S, Scalable Pressure Transmitter
+Performance class
+1, Ultra: 0.025% span accuracy - 200:1 rangedown - 15-year stability - 15-year limited warranty 
+2, Classic: 0.035% span accuracy - 150:1 rangedown - 15-year stability
+3, Ultra for Flow: 0.04% reading accuracy - 200:1 turndown - 15-year stability - 15-year limited warranty 
+Connection type
+C, Coplanar
+Measurement type
+D, Differential 
+G, Gage
+A, Absolute 
+Pressure range
+1A, Differential:-25 to 25 inH2O (-62.16 to 62.16 mbar)/ Guage:-25 to 25 inH2O(-62.16 to 62.16 mbar)/ Absolute:0 to 30 psia(0 to 2.07 bar)
+2A, Differential:-250 to 250 inH2O (-621.60 to 621.60 mbar)/ Guage: -250 to 250 inH2O (-621.60 to 621.60 mbar)/ Absolute:0 to 150 psia(0 to 10.34 bar)
+3A, Differential:-1000 to 1000 inH2O(-2.49 to 2.49 bar)/ Guage: -393 to 1000 inH2O(-0.97 to 2.49 bar)/ Absolute:0 to 800 psia(0 to 55.16 bar)
+4A, Differential:-300 to 300 psi(-20.68 to 20.68 bar)/ Guage: -14.2 to 300 psig(-0.97 to 20.68 bar)/ Absolute:0 to 4000 psia(0 to 275.79 bar)
+5A, Differential:-2000 to 2000 psi(-137.89 to 137.89 bar)/ Guage: -14.2 to 2000 psig(-0.97 to 137.89 bar)/ Absolute:N/A
+0A, Differential:-3 to 3 inH2O(-7.46 to 7.46 mbar)/ Guage: N/A/ Absolute:0 to 5 psia(0 to 0.34 bar)
+Isolating diaphragm
+2,316L SST 
+3,Alloy C-276
+4,Alloy 400
+5,Tantalum
+6,Gold-plated Alloy 400 (includes graphite-filled PTFE O-ring)
+7,Gold-plated 316L SST
+Process connection
+0, None (no process flange)
+A11, Assemble to Rosemount 305 integral manifold
+A12, Assemble to Rosemount 304 or AMF manifold and SST traditional flange
+A15, Assemble to Rosemount 304 or AMF manifold to SST traditional flange with Alloy C-276 drain vents
+A16, Assemble to 304 or AMF manifold to DIN SST traditional flange
+A22, Assemble to Rosemount 304 or AMF manifold to SST coplanar flange
+B11, Assemble to one Rosemount 1199 seal N/A SST N/A N/A
+B12, Assemble to two Rosemount 1199 seals N/A SST N/A N/A
+C11, Assemble to Rosemount 405C or 405P primary element 
+D11, Assemble to Rosemount 1195 integral orifice and Rosemount 305 integral manifold 
+EA2, Assemble to Rosemount 485 or 405A Annubar primary element with coplanar flange N/A SST 316 SST N/A
+EA3, Assemble to Rosemount 485 or 405A Annubar primary element with coplanar flange N/A Cast C-276 Alloy C-276 N/A
+EA5, Assemble to Rosemount 485 or 405A Annubar primary element with coplanar flange N/A SST Alloy C-276 N/A
+E11, Coplanar flange 1/4-18 NPT CS 316 SST N/A
+E12, Coplanar flange 1/4-18 NPT SST 316 SST N/A
+E13, Coplanar flange 1/4-18 NPT Cast C-276 Alloy C-276 N/A
+E14, Coplanar flange 1/4-18 NPT Cast Alloy 400 Alloy 400/K-500 N/A
+E15, Coplanar flange 1/4-18 NPT SST Alloy C-276 N/A
+E16, Coplanar flange 1/4-18 NPT CS Alloy C-276 N/A
+E21, Coplanar flange RC 1/4 CS 316 SST N/A
+E22, Coplanar flange RC 1/4 SST 316 SST N/A
+E23, Coplanar flange RC 1/4 Cast C-276 Alloy C-276 N/A
+E24, Coplanar flange RC 1/4 Cast Alloy 400 Alloy 400/K-500 N/A
+E25, Coplanar flange RC 1/4 SST Alloy C-276 N/A
+E26, Coplanar flange RC 1/4 CS Alloy C-276 N/A
+F12, Traditional flange 1/4-18 NPT SST 316 SST N/A
+F13, Traditional flange 1/4-18 NPT Cast C-276 Alloy C-276 N/A
+F14, Traditional flange 1/4-18 NPT Cast Alloy 400 Alloy 400/K-500 N/A
+F15, Traditional flange 1/4-18 NPT SST Alloy C-276 N/A
+F22, Traditional flange RC 1/4 SST 316 SST N/A
+F23, Traditional flange RC 1/4 Cast C-276 Alloy C-276 N/A
+F24, Traditional flange RC 1/4 Cast Alloy 400 Alloy 400/K-500 N/A
+F25, Traditional flange RC 1/4 SST Alloy C-276 N/A
+F52, DIN-compliant traditional flange 1/4-18 NPT SST 316 SST 7/16-in. bolting
+G11, Vertical mount level flange 2-in. ANSI Class 150 SST 316 SST N/A
+G12, Vertical mount level flange 2-in. ANSI Class 300 SST 316 SST N/A
+G21, Vertical mount level flange 3-in. ANSI Class 150 SST 316 SST N/A
+G22, Vertical mount level flange 3-in. ANSI Class 300 SST 316 SST N/A
+G31, Vertical mount level flange DIN- DN 50 PN 40 SST 316 SST N/A
+G41, Vertical mount level flange DIN- DN 80 PN 40 SST 316 SST N/A
+F32, Bottom vent traditional flange 1/4-18 NPT SST 316 SST N/A
+F42, Bottom vent traditional flange RC 1/4 SST 316 SST N/A
+F62, DIN-compliant traditional flange 1/4-18 NPT SST 316 SST M10 bolting
+F72, DIN-compliant traditional flange 1/4-18 NPT SST 316 SST M12 bolting
+Transmitter output
+A, 4-20 mA with digital signal based on HART protocol
+F, FOUNDATION Fieldbus protocol
+X, Wireless (requires wireless options and wireless Plantweb housing)
+Housing style
+0, None (SuperModule spare part  order output code A) N/A N/A
+1A, Plantweb housing Aluminum 1/2-14 NPT
+1B, Plantweb housing Aluminum M20 x 1.5
+1J, Plantweb housing SST 1/2-14 NPT
+1K, Plantweb housing SST M20 x 1.5
+5A, Wireless Plantweb housing Aluminum 1/2-14 NPT
+5J, Wireless Plantweb housing SST 1/2-14 NPT
+2A, Junction box housing Aluminum 1/2-14 NPT
+2B, Junction box housing Aluminum M20 x 1.5
+2J, Junction box housing SST 1/2-14 NPT
+2E, Junction box housing with output for remote display and interface Aluminum 1/2-14 NPT
+2F, Junction box housing with output for remote display and interface Aluminum M20 x 1.5
+2M, Junction box housing with output for remote display and interface SST 1/2-14 NPT
+7J, Quick connect (A size mini  4-pin male termination) SST N/A
+1C, Plantweb housing Aluminum G1/2
+1L, Plantweb housing SST G1/2
+2C, Junction box housing Aluminum G1/2
+2G, Junction box housing with output for remote display and interface Aluminum G1/2
+Wireless options - Update Rate
+WA, User configurable update rate
+Operating frequency and protocol
+3, 2.4 GHz DSSS IEC 62591 (WirelessHART)
+Omni directional wireless antenna
+WK, External antenna
+WM, Extended range external antenna
+WJ, Remote antenna
+WN, High-gain remote antenna
+Smart Power
+1, Adapter for black power module (I.S. Power Module sold separately)
+Adittional options - HART revision confirguration
+HR7, Configured for HART revision 7
+Extended product warranty
+WR3, 3-year limited warranty
+WR5, 5-year limited warranty
+plantweb control functionality
+A01, FOUNDATION Fieldbus advanced control function block suite
+Diagnostics suite
+D01, FOUNDATION Fieldbus diagnostics suite (Process Intelligence Plugged Impulse Line diagnostic)
+DA2, Advanced HART diagnostics suite (Process Intelligence Loop Integrity Plugged Impulse Line diagnostic Process Alerts Service Alerts Variable Log Event Log)
+Mounting Bracket
+B4, Coplanar flange bracket - all SST - 2-in. pipe and panel 
+B1, Traditional flange bracket - CS - 2-in. pipe 
+B2, Traditional flange bracket - CS - panel 
+B3, Traditional flange flat bracket - CS - 2-in. pipe 
+B7, Traditional flange bracket - B1 with SST bolts 
+B8, Traditional flange bracket - B2 with SST bolts 
+B9, Traditional flange bracket - B3 with SST bolts 
+BA, Traditional flange bracket - B1 - all SST 
+BC, Traditional flange bracket - B3 - all SST
+BE, 316SST B4-style bracket with 316SST bolting
+Software confirguration
+C1, Custom software configuration (requires Configuration Data Sheet)
+C2, Custom flow configuration (requires H01 and Configuration Data Sheet)
+Gauge Pressure Calibration
+C3, Gauge pressure calibration on Rosemount 3051S_CA4 only
+Alarm limited
+C4, NAMUR alarm and saturation levels - high alarm
+C5, NAMUR alarm and saturation levels - low alarm
+C6, Custom alarm and saturation signal levels - high alarm (requires C1 and Configuration Data Sheet)
+C7, Custom alarm and saturation signal levels - low alarm (requires C1 and Configuration Data Sheet)
+C8, Low alarm (standard Rosemount alarm and saturation levels)
+Hardware adjustments
+D1, Hardware adjustments (zero - span - alarm - security)
+Flange Adapter
+D2, 1/2-14 NPT flange adapter
+D9, RC1/2 SST flange adapter
+Custody Transfer
+D3, Measurment Canada accuracy approval
+Ground Screw
+D4, External ground screw assembly
+Drain/vent valve
+D5, Delete transmitter drain/vent valves (install plugs)
+D7, SST coplanar flange without drain/vent ports
+Conduit plugs
+DO, 316 SSt conduit plug
+Product certifications
+E1, ATEX Flameproof
+I1, ATEX Intrinsic Safety
+IA, ATEX FISCO Intrinsic Safety (FOUNDATION Fieldbus protocol only)
+N1, ATEX Type n
+K1, ATEX Flameproof - Intrinsic Safety - Type n - Dust
+ND, ATEX Dust
+E4, Japan Flameproof
+I4, Japan Intrinsic Safety
+E5, USA Explosion-proof - Dust Ignition-proof
+I5, USA Intrinsically Safe; Nonincendive
+IE, USA FISCO Intrinsically Safe (FOUNDATION Fieldbus protocol only)
+K5, USA Explosion-proof - Dust Ignition-proof - Intrinsically Safe - Division 2
+E6, Canada Explosion-proof - Dust Ignition-proof - Division 2
+I6, Canada Intrinsically Safe
+IF, Canada FISCO Intrinsically Safe (FOUNDATION Fieldbus protocol only)
+K6, Canada Explosion-proof - Dust Ignition-proof - Intrinsically Safe - Division 2
+E7, IECEx Flameproof - Dust
+I7, IECEx Intrinsic Safety
+IG, IECEx FISCO Intrinsic Safety (FOUNDATION Fieldbus protocol only)
+N7, IECEx Type n
+K7, IECEx Flameproof - Dust - Intrinsic Safety - Type n
+E2, Brazil Flameproof
+I2, Brazil Intrinsic Safety
+IB, Brazil FISCO Intrinsic Safety
+K2, Brazil Flameproof - Intrinsic Safety
+E3, China Flameproof
+I3, China Intrinsic Safety
+N3, China Type n
+EP, Korea Flameproof
+IP, Korea Intrinsic Safety
+KP, Korea Flameproof - Intrinsic Safety
+EM, Technical Regulations Customs Union (EAC) Flameproof
+IM, Technical Regulations Customs Union (EAC) Intrinsic Safety
+IN, Technical Regulations Customs Union (EAC) FISCO Intrinsic Safety
+KM, Technical Regulations Customs Union (EAC) Flameproof - Intrinsic Safety
+KA, ATEX and Canada Flameproof - Intrinsically Safe - Division 2
+KB, USA and Canada Explosion-proof - Dust Ignition-proof - Intrinsically Safe - Division 2
+KC, USA and ATEX Explosion-proof - Intrinsically Safe - Division 2
+KD, USA - Canada - and ATEX Explosion-proof - Intrinsically Safe
+KG, USA - Canada - ATEX and IECEx FISCO Intrinsic Safety
+KQ, USA - Canada - ATEX Intrinsic Safety Combination
+KS, USA - Canada - IECEx - ATEX Explosion Proof - Intrinsically Safe - Dust - Non-Incendive - Type-N - Division 2
+Shipboard Approvals
+SBS, American Bureau of Shipping
+SBV, Bureau Veritas (BV) Type Approval
+SDN, Det Norske Veritas (DNV) Type Approval
+SLL, Lloyds Register (LR) Type Approval
+Stainless steel tagging
+Y2, 316 SST nameplate - top tag - wire-on tag(s) - and fasternes
+Sensor fill fluid
+L1, Inert sensor fill fluid
+O-ring
+L2, Graphite-filled PTFE O-ring
+Bolting Material
+L4, Austenitic 316 SST bolts
+L5, ASTM A 193 - Grade B7M bolts
+L6, Alloy K-500 bolts
+L7, ASTM A453 - Class D - Grade 660 bolts
+L8, ASTM A193 - Class 2 - Grade B8M bolts
+Display Type
+M5, Plantweb LCD display
+M7, Remote mount LCD display and interface - Plantweb housing - no cable - SST bracket
+M8, Remote mount LCD display and interface - Plantweb housing - 50 ft. (15 m) cable - SST bracket
+M9, Remote mount LCD display and interface - Plantweb housing - 100 ft. (31 m) cable - SST bracket
+Pressure Testing
+P1, Hydrostatic testing with certifiicate
+Special Cleaning
+P2, Cleaning for special services
+P3, Cleaning for special services with testing for <1PPM chlorine/flourine
+Maximum static line pressure
+P9, 4500 psig (310 bar) static pressure limit (Rosemount 3051S_CD only)
+P0, 6092 psig (420 bar) static pressure limit (Rosemount 3051S_CD only)
+Calibration Certificaiton
+Q4, Calibration certificate
+QP, Calibration certificate and tamper evident seal 
+Material Traceability Certification
+Q8, Material traceability certification per EN 10204 3.1
+Postive Material Identification (PMI)
+Q76, PMI verification and certificate
+Quality Certification for Safety
+QT, Safety-certified to IEC 61509 with certificate of FMEDA Data
+Transient Protection
+T1, Transient terminal block
+Drinking Water Approval
+DW, NSF drinking water approval
+Surface finish certification
+Q16, Surface finish certification for sanitary remote seals
+Toolkit total system performance reports
+QZ, Remote seal system performance calculation report
+Conduit Electrical Connector
+GE, M12 - 4-pin - male connector (eurofast)
+GM, A size mini - 4-pin - male connector (minifast)
+NACE certificate
+Q15, Certificate of compliance to NACE
+Q25, Certificate of compliacne to NACE
+Cold Temperature
+BR5, -58 F (-50 C)
+BR6, -76F (-60 C)
+Thread sealants
+Z1, High temperature liquid thread sealant (-65 to 400 °F temperature rating)
+Z2, Liquid thread sealant (-63 to 302 °F temperature rating)
+Z3, Anaerobic PTFE paste
+END
