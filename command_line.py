@@ -51,7 +51,7 @@ def get_users_instrument_options(manuf_devices_dict):
 
     model_number = input(f"\nWhat is the model number? ")
 
-    return model_number, inputed_manufacturer, inputed_device
+    return model_number.upper(), inputed_manufacturer.upper(), inputed_device.upper()
 
 
 def print_program_title():

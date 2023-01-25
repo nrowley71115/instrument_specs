@@ -6,6 +6,7 @@ Input: Model numbers must be inputed in upper case to the Instrument Class"""
 #import libraries
 from csv_to_dict import CsvToDict
 from manufac_and_devices import manuf_and_devices_dict
+from command_line import print_program_title, get_users_instrument_options
 
 #Class for an instrument. This should be vague enough to descirpe any electrical instrument from any manufacturer
 class Instrument:
@@ -66,8 +67,14 @@ if __name__ == "__main__":
     manufacturer = 'JMS'
     device = 'RTD'
 
+    print_program_title()
+
+    manuf_devices_dict = manuf_and_devices_dict()
+
+    model_number, inputed_manufacturer, inputed_device = get_users_instrument_options(manuf_devices_dict)
+
     # creating instance of class Instrument
-    instrument = Instrument(model_number_jms.upper(), manufacturer, device)
+    instrument = Instrument(model_number_jms.upper(), inputed_manufacturer, inputed_device)
     
     #convert data sheet csv to dictionary
     instrument.csv_to_dict()
