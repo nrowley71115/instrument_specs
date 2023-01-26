@@ -61,20 +61,18 @@ class Instrument:
         return result
 
 if __name__ == "__main__":
-    # inputed model number
-    model_number_jms = "3ESCNK3CZZ5240AYT2A1"
-    model_number_3051s = '3051scd2a'
-    manufacturer = 'JMS'
-    device = 'RTD'
 
+    # prints logo
     print_program_title()
 
+    # read's data_sheets folder. Return dictionary of manufacturers and devices. {Rosemount: [648, 848], JMS: [RTD]}
     manuf_devices_dict = manuf_and_devices_dict()
 
+    # Runs command line questions w/ inputed manuf dictionary
     model_number, inputed_manufacturer, inputed_device = get_users_instrument_options(manuf_devices_dict)
 
     # creating instance of class Instrument
-    instrument = Instrument(model_number_jms.upper(), inputed_manufacturer, inputed_device)
+    instrument = Instrument(model_number.upper(), inputed_manufacturer, inputed_device)
     
     #convert data sheet csv to dictionary
     instrument.csv_to_dict()
