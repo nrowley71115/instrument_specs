@@ -10,7 +10,10 @@ JMS-RTD
 648
 
 
-Notes:
+Vega redar
 
-RTD is working
-3051s isn't.
+
+other radar discussed by zach
+
+
+I should consider changing the text to not include "no spec"
