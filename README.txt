@@ -1,6 +1,8 @@
-This program's purpose is to take an instrument's information (model number, manufacturer, and device) and output a detail csv (excel) file that explains each letter of the model number.
-It should funciton entirely wihtin the command line. This way I can create a front end later
+I work as an electrical and instrumentation engineer at Eastman Chemcial. We have lots of instruments throughout our plants that can be descirbed by their model number. I wrote this program to assist my work.
 
+Purpose:
+To take an instrument's information (model number, manufacturer, and device) and output a detail csv (excel) file that explains each letter of the model number.
+It should funciton entirely wihtin the command line. This way I can create a front end later.
 
 
 CSV INSTRUMENT CATALOG/DATASHEET
@@ -35,3 +37,16 @@ A, Absolute
 - The CSV's final row should be a single column that says "END" (no comma)
 - The CSV's file name should be: MANUFACTURER_DEVICE.csv (ROSEMOUNT_3051S-COPLANAR.csv or JMS_RTD.csv)
 - an '_' underscore should seperate the manufactuer and device. Use a '/' or '-' to show spaces if two words are needed
+
+
+MAIN.py
+To run this program, execture main.py. This is where I connected all of the parts to build the final product.
+
+
+MANUFAC_AND_DEVICES.py
+This code reads the files located in 'data_sheets' directory. It pulls the files names as strings and stores the available manufacturers and devices.
+I wrote it this way intentionally. Using this script we can scale this program with additinoal spec sheets for new instruments. Adding the csv file would automatically integrate into the program 
+
+
+CSV_TO_DICT.py
+This file takes the chosen instrument's spec sheet in csv form. It returns a dictionary of lists holding the Specs, Options, Codes, and Descriptions for said instrument.
