@@ -1,0 +1,22 @@
+Model
+"['3051S', ' Scalable Pressure Transmitter']"
+Performance class
+"['2', ' Classic: 0.035% span accuracy - 150:1 rangedown - 15-year stability']"
+Connection type
+"['C', ' Coplanar']"
+Measurement type
+"['D', ' Differential ']"
+Pressure range
+"['2A', ' Differential:-250 to 250 inH2O (-621.60 to 621.60 mbar)/ Guage: -250 to 250 inH2O (-621.60 to 621.60 mbar)/ Absolute:0 to 150 psia(0 to 10.34 bar)']"
+Isolating diaphragm
+"['2', '316L SST ']"
+Process connection
+"['A12', ' Assemble to Rosemount 304 or AMF manifold and SST traditional flange']"
+Transmitter output
+"['A', ' 4-20 mA with digital signal based on HART protocol']"
+Housing style
+"['2A', ' Junction box housing Aluminum 1/2-14 NPT']"
+Mounting Bracket
+"['BA', ' Traditional flange bracket - B1 - all SST ']"
+Product certifications
+"['E5', ' USA Explosion-proof - Dust Ignition-proof']"
